@@ -45,9 +45,6 @@ jekyll-archives:
 # Pagination 
 paginate: 9
 paginate_path: /page:num/
-    
-# Other
-markdown: kramdown
 
 kramdown:
   input: GFM
