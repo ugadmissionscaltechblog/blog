@@ -1,0 +1,67 @@
+# Site
+name: Caltech Undergraduate Admissions Blog
+title: "Caltech Undergraduate Admissions Blog"
+description: "Explore life at Caltech!"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: "/delta"
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  authors:
+  brian:
+    name: Brian
+    display_name: Brian
+    avatar: 'assets/profilepics/briannguyen.jpg'
+    description: "Brian is a junior from Brooklyn, New York."
+  andrew:
+    name: Andrew
+    display_name: I Think I Chan    
+    avatar: 'assets/profilepics/andrew.jpg'
+    description: "Andrew is a senior from Denver, Colorado (the land of Patagonia jackets and 
+    unpredictable weather). At Caltech he is the fencing team foil squad captain and SAAC 
+    representative, a member of chemistry club and ultimate frisbee team, and the Fleming House 
+    food committee representative. In his free time, he likes to hike, write poetry, shoot photos, 
+    and explore LA for trendy food."
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-katex
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 9
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
