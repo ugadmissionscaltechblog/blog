@@ -25,6 +25,15 @@ authors:
     display_name: Brian
     avatar: 'assets/profilepics/briannguyen.jpg'
     description: "Brian is a junior from Brooklyn, New York."
+  sunny: 
+    name: Sunny
+    display_name: Just a Sunny Day 
+    avatar: 
+    description: "Sunny is from Vancouver, BC where it rains over 200 days a year. At Caltech, 
+    she serves on the excomm of the Caltech Y and Society of Women Engineers, and plays piano 
+    with the chamber music program. When she is not doing sets and lab work, she enjoys hiking, 
+    shopping, cooking, drawing, and scouring the internet for items to add to her never-ending 
+    bucket list."
     
 # Plugins
 plugins:
