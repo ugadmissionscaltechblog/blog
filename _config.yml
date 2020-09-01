@@ -11,11 +11,6 @@ permalink: /:title/
 # Authors
 authors:
   authors:
-  brian:
-    name: Brian
-    display_name: Brian
-    avatar: 'assets/profilepics/briannguyen.jpg'
-    description: "Brian is a junior from Brooklyn, New York."
   andrew:
     name: Andrew
     display_name: I Think I Chan    
@@ -25,6 +20,12 @@ authors:
     representative, a member of chemistry club and ultimate frisbee team, and the Fleming House 
     food committee representative. In his free time, he likes to hike, write poetry, shoot photos, 
     and explore LA for trendy food."
+  brian:
+    name: Brian
+    display_name: Brian
+    avatar: 'assets/profilepics/briannguyen.jpg'
+    description: "Brian is a junior from Brooklyn, New York."
+    
 # Plugins
 plugins:
   - jekyll-paginate
