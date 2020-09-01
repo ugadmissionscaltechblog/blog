@@ -28,7 +28,7 @@ authors:
   sunny: 
     name: Sunny
     display_name: Just a Sunny Day 
-    avatar: 
+    avatar: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b7c904dead970b.jpg
     description: "Sunny is from Vancouver, BC where it rains over 200 days a year. At Caltech, 
     she serves on the excomm of the Caltech Y and Society of Women Engineers, and plays piano 
     with the chamber music program. When she is not doing sets and lab work, she enjoys hiking, 
@@ -55,13 +55,6 @@ jekyll-archives:
 # Pagination 
 paginate: 9
 paginate_path: /page:num/
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
