@@ -1,0 +1,20 @@
+---
+layout: post
+author: andrew
+title: "Home in Pasadeeeeeeena"
+image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0240a4b3dada200c-800wi.jpg
+---
+
+Well, I’ve returned to Caltech. And my first observation: it’s warm here. Really warm. I got off the plane and it was a balmy 21 C (70 F for all you yanks). And, after 11 countries (not including layovers) my trip around the world in about 180 days has been completed.
+
+I’m home. I have to say though, it didn’t really feel like home until I had my first boba back. While I was gone my true home away from home, Labobatory, opened their second location in Pasadena. First thing I did when I got in: started moving into my new apartment.
+
+Oh yeah! That’s a good note here – I’m living off-campus this term. I figured I’d be used to cooking for myself by the time I got back from abroad. So, I didn’t really fancy the idea of going back to a world of pre-prepared Caltech dining services meals. More on that to come. But anyways I’m living a block North of campus with Marcel; together we form the flat of… well… all the geophysics majors at the California Institute of Technology. It’s super spacious, and generally pretty nice, but it’s definitely a bit weird living far away from campus (and by far I mean a 10 minute walk). Although, having been about that distance from uni at Edinburgh, I guess it really shouldn’t. Anyways, I had to move in there right when I got in Sunday. And then, I went to LABOBATORY!
+
+The new Pasadena location is quite excellent. They’re making all of their pearls in-house, so basically, it’s now objectively and subjectively the best bubble tea in Los Angeles. I missed good bubble tea. Like yikes Chatime looks bad compared to this.
+
+![](https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0240a501ac88200b-800wi.jpg)
+
+It’s nice to see all of my friends too, it’s a bit wild that it had been a whole 6 months. Unpacking was a bit more hectic than I thought it would be. Turns out I have a lot more stuff than I thought I’d left. And I forgot about my typewriters! Get ready for some artsy writing posts. Last thing: I did some grocery shopping. It was really great being back in LA Asian markets. Kinda felt like a nice breath of Singapore and everything came back to the start of the summer. So, I waltzed off with my 3lb can of milo into the California sunset, breathed out a sigh, and thought about how nice it was to be home.
+
+--Chandrew
