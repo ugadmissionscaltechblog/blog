@@ -45,6 +45,11 @@ authors:
     Library (just down the street from Caltech). Even though I come from a humanities background, 
     I am a Techer at heart who always wants to hear about what students are working on in the lab 
     so I can live vicariously through them."
+  einstein:
+    name: Albert Einstein
+    display_name: Einstein
+    avatar: 'assets/profilepics/einstein.jpg'
+    description: "Gravity sucks."
     
 # Plugins
 plugins:
