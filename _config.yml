@@ -15,25 +15,36 @@ authors:
     name: Andrew
     display_name: I Think I Chan    
     avatar: 'assets/profilepics/andrew.jpg'
-    description: "Andrew is a senior from Denver, Colorado (the land of Patagonia jackets and 
-    unpredictable weather). At Caltech he is the fencing team foil squad captain and SAAC 
+    description: "I'm a senior from Denver, Colorado (the land of Patagonia jackets and 
+    unpredictable weather). At Caltech I'm on the fencing team foil squad captain and SAAC 
     representative, a member of chemistry club and ultimate frisbee team, and the Fleming House 
-    food committee representative. In his free time, he likes to hike, write poetry, shoot photos, 
+    food committee representative. In my free time, I like to hike, write poetry, shoot photos, 
     and explore LA for trendy food."
   brian:
     name: Brian
     display_name: Brian
     avatar: 'assets/profilepics/briannguyen.jpg'
-    description: "Brian is a junior from Brooklyn, New York."
+    description: "I'm a junior from Brooklyn, New York."
   sunny: 
     name: Sunny
     display_name: Just a Sunny Day 
     avatar: 'assets/profilepics/sunny.jpg'
-    description: "Sunny is from Vancouver, BC where it rains over 200 days a year. At Caltech, 
-    she serves on the excomm of the Caltech Y and Society of Women Engineers, and plays piano 
-    with the chamber music program. When she is not doing sets and lab work, she enjoys hiking, 
+    description: "I'm from Vancouver, BC where it rains over 200 days a year. At Caltech, 
+    I serve on the excomm of the Caltech Y and Society of Women Engineers and play piano 
+    with the chamber music program. When I'm not doing sets and lab work, I enjoy hiking, 
     shopping, cooking, drawing, and scouring the internet for items to add to her never-ending 
     bucket list."
+  tessa: 
+    name: tessa
+    display_name: Tesseract 
+    avatar: 'assets/profilepics/tessa.jpg'
+    description: "I grew up in the Seattle area and moved to Southern California to attend 
+    Pitzer College in Claremont (and for the sunshine!) I graduated with a B.A. in Anthropology, 
+    inspired by my love of museums and material culture and studied abroad in the Amazon region 
+    of Brazil. After interning at The Getty Foundation, I worked in museum education at Huntington 
+    Library (just down the street from Caltech). Even though I come from a humanities background, 
+    I am a Techer at heart who always wants to hear about what students are working on in the lab 
+    so I can live vicariously through them."
     
 # Plugins
 plugins:
@@ -55,11 +66,6 @@ jekyll-archives:
 # Pagination 
 paginate: 9
 paginate_path: /page:num/
-
-# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
