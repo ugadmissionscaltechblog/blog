@@ -24,9 +24,11 @@ authors:
     name: Brian
     display_name: Brian
     avatar: 'assets/profilepics/briannguyen.jpg'
-    description: "I'm a junior from Brooklyn, New York."
+    description: "I'm an junior from Brooklyn, New York studying electrical engineering.  
+    I help out our QuestBridge chapter on campus and recently joined our rocket team's avionics 
+    group (PARSEC). Outside of school, I enjoy reading and hanging out with family & friends."
   sunny: 
-    name: Sunny
+    name: sunny
     display_name: Just a Sunny Day 
     avatar: 'assets/profilepics/sunny.jpg'
     description: "I'm from Vancouver, BC where it rains over 200 days a year. At Caltech, 
@@ -36,7 +38,7 @@ authors:
     bucket list."
   tessa: 
     name: tessa
-    display_name: Tesseract 
+    display_name: Tessa 
     avatar: 'assets/profilepics/tessa.jpg'
     description: "I grew up in the Seattle area and moved to Southern California to attend 
     Pitzer College in Claremont (and for the sunshine!) I graduated with a B.A. in Anthropology, 
@@ -45,11 +47,32 @@ authors:
     Library (just down the street from Caltech). Even though I come from a humanities background, 
     I am a Techer at heart who always wants to hear about what students are working on in the lab 
     so I can live vicariously through them."
-  einstein:
-    name: Albert Einstein
-    display_name: Einstein
-    avatar: 'assets/profilepics/einstein.jpg'
-    description: "Gravity sucks."
+  rashi: 
+    name: rashi 
+    display_name: Rashi 
+    avatar: 'assets/profilepics/rashi.jpg'
+    description: Hi! I’m Rashi, a California girl who grew up in Pasadena, practically next door 
+    to campus. I’m a junior majoring in Bioengineering and would typically be spending my days at 
+    Caltech messing with the genome of E. coli in lab. On campus, I do synthetic bio research, 
+    have dabbled in a bit of electrical engineering with the Racing team, am part of the Bollywood 
+    dance team Caltech Dhamaka, and like to spend time exploring the area with friends!
+  andy:
+    name: andy 
+    display_name: Andy
+    avatar: 'assets/profilepics/andy.jpg'
+    description: I'm a senior physics major with a minor in aerospace engineering from from 
+    Potomac, Maryland. I'm a member of Lloyd House (and was the president last year), help out 
+    as a dean's tutor, wait house dinners, and swim. Outside of the more structured activities, 
+    I'm always on the hunt for the best KBBQ restaurant or really any ayce place.
+  sydney: 
+    name: sydney 
+    display_name: Sydney 
+    avatar: 'assets/profilepics/sydney.jpg'
+    description: Hello! I’m Sydney, a Junior from the Sacramento area studying Mechanical Engineering. 
+    I play on Caltech’s volleyball team and I‘m a member of Fleming house. I participate in clubs 
+    such as the Caltech Latino Association, the Society of Women Engineers, and FSAE (we build a racecar)! 
+    Alongside meeting and talking to new people, I love art, the ocean, pupusas 
+    (the national dish of El Salvador), and of course STEM!
     
 # Plugins
 plugins:
