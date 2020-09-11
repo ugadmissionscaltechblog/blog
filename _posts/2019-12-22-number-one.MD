@@ -34,17 +34,19 @@ Continuing on, the main course was roe deer, chervil root, and pear. This was a 
 
 After this it was on to the cheese course, where we had an interesting mix of French and Scottish cheeses, served with truffled honey.
 
-![](6a0105349b8251970b0240a4fa28b7200b-800wi.jpg)
+![](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2019/12/6a0105349b8251970b0240a4fa28b7200b-800wi.jpg)
 
 Finally, dessert of a sea buckthorn sherbet served with carrot puree and browned butter crust. Sea buckthorn apparently tastes like tangerine.
 
-![](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2019/12/6a0105349b8251970b0240a4fa28bc200b-800wi.jpg)
+![](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2019/12/6a0105349b8251970b0240a4d58127200d-800wi.jpg)
 
 But wait! There’s more! Last up was a bramble sherbet soufflé with apple pie ice cream.
 
-![](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2019/12/6a0105349b8251970b0240a4d58127200d-800wi)
+![](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2019/12/6a0105349b8251970b0240a4fa28b7200b-800wi.jpg)
 
 And we got some post-dinner sweets to go along with it. A nice bit of tablet and a pineapple candy.
+
+![](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2019/12/6a0105349b8251970b0240a4fa28c3200b-800wi.jpg)
  
 My favorite? Strongly the last course, the soufflé. It was by far the most technically perfect baked dish I’d ever consumed. And the flavors balanced and played with each other unlike any dessert I’ve had. This meal was a stark contrast to the Michelin street food I had in Singapore, and a similar contrast to Providence in LA. This menu was united around the theme of Scotland at the holidays. Not the general theme of seafood. Or the singular dish of the hawker stalls in Singapore. And it was a perfect goodbye meal.
  
