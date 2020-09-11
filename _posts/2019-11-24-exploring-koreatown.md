@@ -1,0 +1,24 @@
+---
+layout: post
+author: sunny
+title: "Exploring Koreatown"
+date: 2019-11-24
+image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2019/11/6a0105349b8251970b0240a4a10d44200c-800wi.jpg
+---
+
+There have been numerous high scientific studies showing that LA has the best Korean food in America. I've gone to a couple of famous spots over the past year and aggregated these reviews to share with you all. If you read my other blogs, you would probably notice that I blog about food a lot. The truth is, I derive a lot of joy from going off campus for food adventures, so these are the highlights of my week that I want to share. If you are interested in hearing about other aspects of my life at Caltech, let me know. Also, I get asked this a lot in real life -- No, I am no a Yelp Elite. I do not write any reviews on Yelp at all. I just read other people's reviews to make my bucket list restaurants.
+
+Moving on... the best place I've visited is Majordomo in the Arts District. If you watch any food documentaries on Netflix, you probably would know of celebrity chef David Chang. Majordomo is his first venture in LA and it is a mega hit. I was on the waitlist for a good month to get a reservation for dinner at a reasonable hour. Is it worth the hype? I think so! I was starving when I got there, which may have biased my palate, but I am a huge fan of Asian fusion, and everything on the menu was up my alley. Some must haves are the bing. We got the bing with ham and spicy pineapple and it was delicious. I heard the one with egg and roe is also fantastic. As for larger dishes, we got the fried skate rice. I would highly recommend it. If I had more people in my dinner party, I would get the massive beef ribs with fondue.
+
+![](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2019/11/6a0105349b8251970b0240a4a10d48200c-800wi.jpg)
+
+For more homestyle cooking, I went to Myung Dong Koyja. It has the best cold noodles and dumplings. I know the concept of cold noodles sounds weird, but they freeze the broth which becomes like a shaved ice texture in the bowl. The noodles are super springy since there's no hot broth to soften it. The texture is where it's at. The dumplings are also super plump and flavorful. We original got one plate of 10 to share amongst two people, but we had to double our order because it was so good.
+
+![](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2019/11/6a0105349b8251970b0240a4ca39bf200d-800wi.jpg)
+
+Some K-Town classics are Sun Nong Dan, and Hangari Kalguksu. Sun Nong Dan has the most impressive beef ribs with cheese fondue. Each order is large enough to feed a family of four. Hangari Kalguksu is known for their knife cut noodles. You know it's good when the carb is the best part of the dish. Also, both these places have over 1000 five star reviews on Yelp, so even if I don't know what I am talking about, at least one of them would.
+
+![](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2019/11/6a0105349b8251970b0240a4ca39cd200d-800wi.jpg)
+![](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2019/11/6a0105349b8251970b0240a4ca39e6200d-800wi.jpg)
+
+These are just a few of the places that I really enjoyed. Of course, there are plenty more to try. I heard Genwa has some of the best kbbq around town and Dae Bu Do has amazing seafood. If any of them are worth sharing, you can read about it in a follow up post.
