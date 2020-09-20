@@ -4,7 +4,7 @@ title: "Photos From the Time of Covid"
 author: andrew
 image: https://blueberry-elephant.s3.us-east-2.amazonaws.com/amchan/9_20/20200809-IMG_3799.jpg
 featured: false
-hidden: true
+hidden: false
 ---
 
 # Photos From the Time of Covid
