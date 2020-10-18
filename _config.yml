@@ -11,6 +11,11 @@ permalink: /:title/
 # Authors
 authors:
   authors:
+  annabel: 
+    name: Annabel 
+    display_name: AnnABEL's Theorem 
+    avatar: "NN" 
+    description: "NN"
   andrew:
     name: Andrew
     display_name: I Think I Chan    
@@ -50,7 +55,7 @@ authors:
     so I can live vicariously through them."
   rashi: 
     name: rashi 
-    display_name: Rashi 
+    display_name: Rashi Jeeda  
     avatar: 'assets/profilepics/Rashi.jpg'
     description: "Hi! I’m Rashi, a California girl who grew up in Pasadena, practically next door 
     to campus. I’m a junior majoring in Bioengineering and would typically be spending my days at 
@@ -67,7 +72,7 @@ authors:
     I'm always on the hunt for the best KBBQ restaurant or really any ayce place."
   sydney: 
     name: sydney 
-    display_name: Sydney 
+    display_name: Sydney Richardson 
     avatar: 'assets/profilepics/SydneyR.jpg'
     description: "Hello! I’m Sydney, a Junior from the Sacramento area studying Mechanical Engineering. 
     I play on Caltech’s volleyball team and I‘m a member of Fleming house. I participate in clubs 
