@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Caltech at Home, but make it Study Abroad" 
+title: "Caltech at Home, but Make it Study Abroad" 
 author: andy
 categories: [ Korea ]
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/10/Andy/city.jpg
