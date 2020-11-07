@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Applying for a Caltech SURF!" 
-author: Annabel Gomez
+author: annabel
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/10/Annabel+/D72F8AC9-6788-42C3-ACB8-82031AFA2C84.jpeg
 featured: true
 hidden: true 
