@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zooming Through the Year"
-author: rashi jeeda
+author: rashi
 categories: [ ]
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/10/Rashi/2020-10-16-Zooming-Through-the-Year/plane_clouds.jpg
 featured: true
