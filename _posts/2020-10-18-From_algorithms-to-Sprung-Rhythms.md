@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "From Algorithms to Sprung Rhythms" 
-author: Annabel Gomez
+author: annabel
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/10/Annabel+/A2C2CD26-7AF2-4C94-A0D3-9295C937346B.jpeg 
 featured: true
 hidden: true
