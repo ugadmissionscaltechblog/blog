@@ -3,8 +3,6 @@ layout: post
 title: "Hello World"
 author: andrew
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/08/20200809-IMG_3832.jpg
-featured: true
-hidden: true
 ---
 
 # A Brief Introduction
