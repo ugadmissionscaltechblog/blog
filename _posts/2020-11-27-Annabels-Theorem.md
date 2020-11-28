@@ -3,8 +3,6 @@ layout: post
 title: "AnnABEL's Theorem" 
 author: annabel
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/11/36C94545-774D-426A-975A-72C3CF325852.jpeg
-featured: true
-hidden: true 
 ---
 
 Have you ever gotten lost trying to find an address? Have you ever been annoyed by the voice on your phone telling you to “Turn left in 100 ft.” when in reality there is no street to turn into? When you find an address using your phone, have you ever wondered where that information comes from? I think we all have. GPS (Global Positioning System) is a system composed of a fleet of about 24 satellites put into orbit and maintained by the U.S. Department of defense. This technology is used to find a position on Earth by using a mathematical technique, called trilateration. Trilateration uses about 3 satellites, at any given time, to determine an object’s speed, elevation, and position. Most electronic devices come with a built-in GPS chip and use Wi-Fi networks and cellphone towers to enhance location accuracy and calculate its position. Even though GPS is a highly sophisticated system, it is far from perfect! It is not uncommon for it to malfunction when a navigator cannot receive sufficient satellite data or when signals move too slowly due to atmospheric irregularities in the troposphere and ionosphere. This, in turn, can output inaccuracies in location calculations which can cause serious problems in navigation and aviation in addition to unnecessary stress and frustration. 
