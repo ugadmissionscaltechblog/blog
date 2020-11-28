@@ -2,7 +2,6 @@
 layout: post
 title: "AnnABEL's Theorem" 
 author: Annabel Gomez
-categories: [ Featured ]
 https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/11/ionosphere.jpg
 featured: true
 hidden: true
