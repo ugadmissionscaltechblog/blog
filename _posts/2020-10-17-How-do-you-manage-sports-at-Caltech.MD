@@ -22,6 +22,6 @@ During season, you do have less free time than outside season. I like to think o
 
 Another important thing to note is the 2 hour period from 4-6 PM where professors can't schedule class, TAs can't have office hours,  etc. Practice will be in this two hour time period so you don't have to worry about missing class. You may have to miss a couple of classes for games, but I have found professors are always understanding and I have never been penalized for missing class due to a game.
 
-Overall I love playing volleyball for Caltech and think sports are not only good for keeping you in shape, but also good for the mind. On days where you have been busy with work, or are stressed, although practice may not sound the most appealing, taking those two hours to exercise and be with your team, I have found, always vastly imporves my mood.
+Overall I love playing volleyball for Caltech and think sports are not only good for keeping you in shape, but also good for the mind. On days where you have been busy with work, or are stressed, although practice may not sound the most appealing, taking those two hours to exercise and be with your team, I have found, always vastly improves my mood.
 
 Go beavers!
