@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Intro
+title: How do you manage sports and Caltech?
 author: sydney
 categories:
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/10/Sydney/teampic.PNG
 ---
-
-## How do you manage sports and Caltech?
 
 Usually, while writing this post, I would be at Caltech playing volleyball. I begin school eith preseason, which for those unfamiliar (or are planning on joining women's volleyball, women's soccer, men's soccer, men's waterpolo, or cross country) is a 5 week long period before school begins where the sports teams I listed before practice and compete. My life during preseason is basically volleyball 24/7. Two practices a day (during school only one) and game days three days a week. No school work to worry about, spending time with my teammates all day, a nice refresher before school begins.
 
