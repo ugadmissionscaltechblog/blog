@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "AnnABEL's Theorem" 
-author: Annabel Gomez
-https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/11/36C94545-774D-426A-975A-72C3CF325852.jpeg
+author: annabel
+image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/11/36C94545-774D-426A-975A-72C3CF325852.jpeg
 featured: true
 hidden: true 
 ---
