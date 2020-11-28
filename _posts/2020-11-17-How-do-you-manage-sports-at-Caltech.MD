@@ -1,8 +1,8 @@
 ---
 layout: post
 title: intro
-author: Sydney Richardson
-categories: [blog]
+author: sydney
+categories:
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/10/Sydney/teampic.PNG
 ---
 
