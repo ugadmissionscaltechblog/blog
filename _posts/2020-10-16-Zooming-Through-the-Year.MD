@@ -4,8 +4,6 @@ title: "Zooming Through the Year"
 author: rashi
 categories: [ ]
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/10/Rashi/2020-10-16-Zooming-Through-the-Year/plane_clouds.jpg
-featured: true
-hidden: true
 ---
 
 These past six months have been a whirlwind- from having to move out of Caltech housing in March within a week’s notice due to COVID-19, to starting the first term of my junior year, I’ve definitely experienced a lot of change. When I went home in March, it was to a completely new state-my family moved from Chino, CA to New Jersey in January (great timing, huh?). While I missed seeing my friends from home, it was fun to have the chance to explore a completely new place. The pandemic obviously limited what I could see and do, but I got to experience walks through nature and along rivers normally foreign to a SoCal native and had some time to focus on bioinformatics research for the lab I work with on campus.
