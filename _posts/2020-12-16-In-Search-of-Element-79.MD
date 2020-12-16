@@ -3,6 +3,7 @@ layout: post
 title: "In Search of Element 79"
 author: brian 
 date: 2020-12-16
+image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/Gold-Rush-in-California-Currier-and-Ives.jpg
 category: acceptance
 ---
 
