@@ -35,10 +35,10 @@ authors:
     name: Brian
     display_name: Souschef
     avatar: 'assets/profilepics/briannguyen.jpg'
-    description: "I'm an junior from Brooklyn, New York studying electrical engineering.  
-    I'm president of our campus's QuestBridge chapter, and I recently joined our rocket team's 
-    avionics group (PARSEC). Outside of school, I enjoy reading, hanging out with family & friends, 
-    and building paper cities."
+    description: "Hey! I'm an junior from Brooklyn, New York studying electrical engineering.  
+    I'm president of our campus's QuestBridge chapter. I recently joined our robotics team and our
+    rocket team's avionics group (PARSEC). Outside of school, I enjoy reading, hanging out with 
+    family & friends, and experimenting with food."
   sunny: 
     name: sunny
     display_name: Just a Sunny Day 
@@ -72,10 +72,11 @@ authors:
     name: andy 
     display_name: LOL Andy 
     avatar: 'assets/profilepics/Andy_Rothstein.jpeg'
-    description: "Life Of a Lloydie - Andy. Hello! I'm a senior physics major with a minor in aerospace engineering from from 
-    Bethesda, Maryland. I'm a member of Lloyd House (and was the president last year), help out 
-    as a dean's tutor, wait house dinners, and swim. Outside of the more structured activities, 
-    I'm always on the hunt for the best KBBQ restaurant or really any ayce place."
+    description: "Life Of a Lloydie - Andy. Hello! I'm a senior physics major with a minor in aerospace 
+    engineering from from Bethesda, Maryland. I'm a member of Lloyd House (and was the president 
+    last year), help out as a dean's tutor, wait house dinners, and swim. Outside of the more 
+    structured activities, I'm always on the hunt for the best KBBQ restaurant or really any 
+    ayce place."
   sydney: 
     name: sydney 
     display_name: Sydney Richardson 
@@ -85,6 +86,14 @@ authors:
     such as the Caltech Latino Association, the Society of Women Engineers, and FSAE (we build a racecar)! 
     Alongside meeting and talking to new people, I love art, the ocean, pupusas 
     (the national dish of El Salvador), and of course STEM!"
+  vmechem:
+    name: vmechem
+    display_name: Vanessa Mechem
+    avatar: 'assets/profilepics/vmechem.jpg'
+    description: "Hi! I am Vanessa, a Junior Chem major and pre-med student. I am originally from Shanghai, 
+    China but I've been living in sunny Southern California for the past 7 years. I am the Vice President of 
+    Page House, a Health Advocate, and a member of the Clemons lab. I love dancing, singing (poorly), 
+    goofing off with my friends, playing poker, and watching the same shows on Netflix for the 15th time."
     
 # Plugins
 plugins:
