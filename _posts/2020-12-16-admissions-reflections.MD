@@ -3,6 +3,7 @@ layout: post
 title: "Admissions Reflections"
 author: vmechem
 date: 2020-12-16
+image: 
 category: acceptance
 ---
 ### What do you remember feeling when you found out you had been accepted to Caltech?
