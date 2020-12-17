@@ -14,15 +14,15 @@ We have:
 
 Explored caves created by flowing lava!
 
-![cave]https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/11/cave.jpg
+![cave](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/11/cave.jpg)
 
 Seen some pretty amazing waterfalls!
 
-![waterfall]https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/11/waterfall.jpg
+![waterfall](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/11/waterfall.jpg)
 
 Swam with huge (8 foot+) manta rays!
 
-![mantas]https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/11/mantas.jpg
+![mantas](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/11/mantas.jpg)
 
 And more! Overall, I have had an amazing experience here in Hawaii. 
 
