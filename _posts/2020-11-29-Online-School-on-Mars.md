@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Online School.. on Mars!
+title: Online School.. on Mars
 author: sydney
 categories: [blog]
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/11/mauna.jpg
 ---
-
 
 When the announcement was first made that fall term was going to be online, I started talking to friends and looking for places to live. We were debating locations around the country: California, Florida, New York, etc.. there were plenty of options. Then it suddenly hit me, what is stopping us from going to Hawaii, covid numbers were better and a two week quarentine would ensure that numbers stayed down... I proposed this to my friend and we agreed it would be an amazing experience, but we didn't want to get out hopes up. A month or so later we still haven't decided where to live, Hawaii seemed too far and too difficult to plan. But we couldn't get the idea out of our heads. We spent some time looking into plane tickets, places to stay, etc... and it actually didn't seem so impossible after all. A couple weeks later and we were arriving here on the big island!
 
