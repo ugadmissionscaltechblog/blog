@@ -1,6 +1,6 @@
 ---
 layout: post
-title: intro
+title: Online School.. on Mars
 author: sydney
 categories: [blog]
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/11/mauna.jpg
