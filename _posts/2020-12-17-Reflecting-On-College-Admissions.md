@@ -5,7 +5,6 @@ author: andrew
 image: https://blueberry-elephant.s3.us-east-2.amazonaws.com/amchan/12_17/Ventura.JPG
 ---
 
-# Reflecting on College Admissions
 #### What do you remember feeling when you found out you had been accepted to Caltech?
 In short: I was completely shocked. Caltech had been my first-choice school for years (warm weather, great science, what’s not to love?). However, I didn’t ever think I’d get in: nobody had gotten in from my high school in the living memory of any teacher and my guidance counselor had told me point blank that it was a longshot.
 
