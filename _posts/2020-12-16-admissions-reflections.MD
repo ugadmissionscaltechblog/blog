@@ -3,7 +3,7 @@ layout: post
 title: "Admissions Reflections"
 author: vmechem
 date: 2020-12-16
-image: 
+image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/IMG_3368.jpg
 category: acceptance
 ---
 ### What do you remember feeling when you found out you had been accepted to Caltech?
