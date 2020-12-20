@@ -3,12 +3,12 @@ layout: post
 title: "Rotation Rotation Rotation - The Caltech Houses" 
 author: andy
 categories: [ Houses]
-image: https://s3.console.aws.amazon.com/s3/object/ug-admissions-caltech-blog-publish?region=us-west-1&prefix=images/2020/12/millikan.jpg
+image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/millikan.jpg
 ---
 
 My favorite part about Caltech is the Houses! The easiest way to describe them is as Hogwarts houses: each has their own personality and group of people and the first thing you do at Caltech is go through a “sorting” process. The people are what makes the Houses at Caltech so great. As a frosh, it’s amazing to be able to come in and immediately have a group of 100+ people to support you. Because the Houses have students from every grade, you make friends with upperclassmen and can ask for help on tons of things like:
 
-\begin{list}
+\begin{itemize}
 \item Hints on difficult problem sets
 \item Advice on which classes to take
 \item How to email Professors and find SURFs
@@ -16,7 +16,7 @@ My favorite part about Caltech is the Houses! The easiest way to describe them i
 \item How to find internships and jobs or apply to grad school
 \item The best restaurants in the Pasadena area
 \item That one time frosh year you broke your ankle and needed to be driven to physical therapy 3 times a week (thanks Dylan <3)
-\end{list}
+\end{itemize}
 Plus the houses also put on tons of social events from a ski trip, beach trip, movie nights, picnics, and tons of secret events you’ll learn about when you join one! 
 
 Now I hope your immediate response is: “How do I join these great houses?” This happens through Rotation. Rotation is 2 weeks of House dinners and events so that the prefrosh can get to know all the House cultures. In addition to a dinner and dessert in each House, there are tons of other events from Open Mic Night, Capture the Flag, Grill Night, a House-run Boba Lounge, and many more! Besides getting to know the Houses, all the events are a ton of fun, are a great way to meet other frosh, and almost every single one has food. 
@@ -25,4 +25,4 @@ At the end of the 2 weeks of Rotation, you rank the Houses in order of your pref
 
 As Lloyd House President I had a lot of fun helping to run Rotation and know all the hard work the students put into making it a fun experience for everyone. This year, Rotation has been pushed off to the beginning of Winter term and will be done virtually. With all the time the students are putting into making this new format work, I’m sure it’ll be a great success! 
 
-![ doors ](https://s3.console.aws.amazon.com/s3/object/ug-admissions-caltech-blog-publish?region=us-west-1&prefix=images/2020/12/doors.jpg)
+![ doors ](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/doors.jpg)
