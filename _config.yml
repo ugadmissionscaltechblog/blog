@@ -102,7 +102,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-  - jekyll-kramdown
+  - kramdown
     
 # Archives
 jekyll-archives:
