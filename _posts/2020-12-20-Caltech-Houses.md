@@ -11,7 +11,7 @@ My favorite part about Caltech is the Houses! The easiest way to describe them i
 * Hints on difficult problem sets
 * Advice on which classes to take
 * How to email Professors and find SURFs
-* What days you should steer clear of House dinners \textbf{(mystery fish should remain a mystery)}
+* What days you should steer clear of House dinners **(mystery fish should remain a mystery)**
 * How to find internships and jobs or apply to grad school
 * The best restaurants in the Pasadena area
 * That one time frosh year you broke your ankle and needed to be driven to physical therapy 3 times a week (thanks Dylan <3)
