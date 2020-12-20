@@ -2,14 +2,14 @@
 layout: post
 title: "The Indian Festival of Lights"
 date: 2020-12-19
-author: rashi jeeda
-categories: [blog]
+author: rashi 
+categories: [ ]
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/diwali_candles.jpg
 ---
 
 Hey everyone, and happy holidays! Personally, one of my favorite holidays during the season is Diwali. The description you’ll find all over the internet is “Diwali is the Indian Festival of Lights.” This is pretty much what every Diwali-celebrating, South-Asian child in America wrote in their elementary school reports about family traditions during the holidays, but it holds true!  Diwali usually does involve lighting candles and sparklers, and generally celebrates the triumph of good over evil in various mythologies. I like to think of it as a time of general goodwill and festivity. In non-pandemic times, Diwali celebrations might include with boisterous parties with tons of people and desserts and music. Last year, a couple of my friends and I organized an event in Ruddock House for people to come celebrate, complete with sweets and sparklers! However, the 2020 version, like for most things, has had to be toned down. We got together over Zoom instead, and although it couldn’t fully match the vibe of being in person, the spirit was definitely there. And, it’s nice to think that we’ve started a yearly tradition.
 
-The festivity (and Bollywood music) also makes me miss Dhamaka, the Bollywood dance team we have on campus. I joined Dhamaka during my freshman year: it all started out as me tagging along with friends who had pushed me to go with them to the first practice. I was pretty apprehensive because I had never really been on an official dance team before, or ever danced on a stage for that matter, but the group was incredibly welcoming! It didn’t matter that I didn’t have previous experience (as is the case for many clubs on campus!), and it was a fun outlet for me to take a break from sets every weekend. We would meet every week or so to practice for the Caltech Dance Show, held in the spring every year, where we were the big finale! Check us out on YouTube: <a href=https://www.youtube.com/watch?v=FeR7GkrP-0Y>Dhamaka 2019 Performance</a>
+The festivity (and Bollywood music) also makes me miss Dhamaka, the Bollywood dance team we have on campus. I joined Dhamaka during my freshman year: it all started out as me tagging along with friends who had pushed me to go with them to the first practice. I was pretty apprehensive because I had never really been on an official dance team before, or ever danced on a stage for that matter, but the group was incredibly welcoming! It didn’t matter that I didn’t have previous experience (as is the case for many clubs on campus!), and it was a fun outlet for me to take a break from sets every weekend. We would meet every week or so to practice for the Caltech Dance Show, held in the spring every year, where we were the big finale! Check us out on YouTube: https://www.youtube.com/watch?v=FeR7GkrP-0Y
 
 ![ Dhamaka ](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/dhamaka_promo.JPG)
 
