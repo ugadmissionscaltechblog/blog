@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Forging Ahead with Research while Sheltering in Place" 
-author: Annabel Gomez
+author: annabel
 categories: [ Featured ]
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/5F5C8D29-8ADD-48C0-A0C6-FEEDF09F40ED.jpeg
 ---
