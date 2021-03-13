@@ -3,6 +3,7 @@ layout: post
 title: "An Interview with a JPL Mentor!" 
 author: annabel
 image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/E2A82F2A-948E-4862-A304-E5E92409F442.jpeg 
+comments: true
 ---
 
 Over the past several months, I have had the opportunity to intern at the NASA Jet Propulsion Laboratory (JPL) under the mentorship of senior research technologist Dr. Xiaoqing Pi. Dr. Pi’s guidance and mentorship has been instrumental to the development and success of my internship at JPL, where I use machine-learning to enhance the accuracy and integrity of navigation and communication signals. In addition to helping me develop an understanding of atmospheric and ionospheric remote sensing and machine-learning, Dr. Pi has often offered his insights on how to improve my researching skills. Dr. Pi was generous enough to take the time to answer a few questions regarding his research and advice for future student interns. I believe many students can benefit from some of the lessons that he has taught me: 
