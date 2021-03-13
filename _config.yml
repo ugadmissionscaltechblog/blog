@@ -3,7 +3,7 @@ name: Caltech Undergraduate Admissions Blog
 title: "Caltech Undergraduate Admissions Blog"
 description: "Explore life at Caltech!"
 logo: 'assets/images/logo.png'
-favicon: 'favicon.png'
+favicon: 'favicon.ico'
 url: "caltechadmissions.blog" 
 include: ["_pages"] 
 permalink: /:title/
