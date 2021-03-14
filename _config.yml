@@ -14,7 +14,7 @@ authors:
   annabel: 
     name: Annabel 
     display_name: Annabel Reyna 
-    avatar: "assets/profilepics/annabel.JPG" 
+    avatar: "assets/profilepics/agomez.png" 
     description: "Hello, my name is Annabel Reyna Gomez! I am a sophomore from the San Francisco Bay Area 
     (home of the Silicon Valley) pursuing a major in Mechanical Engineering with a minor in Aerospace 
     Engineering. On campus, I am a member of Ruddock House, Club Latino, Women Mentoring Women, a 
@@ -25,7 +25,7 @@ authors:
   andrew:
     name: Andrew
     display_name: I Think I Chan    
-    avatar: 'assets/profilepics/andrew.jpg'
+    avatar: 'assets/profilepics/amchan.png'
     description: "I'm a senior from Denver, Colorado (the land of Patagonia jackets and 
     unpredictable weather). At Caltech I'm on the fencing team foil squad captain and SAAC 
     representative, a member of chemistry club and ultimate frisbee team, and the Fleming House 
@@ -34,7 +34,7 @@ authors:
   brian:
     name: Brian
     display_name: Souschef
-    avatar: 'assets/profilepics/briannguyen.jpg'
+    avatar: 'assets/profilepics/blnguyen.png'
     description: "Hey! I'm Brian, a junior from Brooklyn, New York studying electrical engineering.  
     I'm president of our campus's QuestBridge chapter. Recently, I joined our school's robotics 
     and rocket teams. Outside of academics, I enjoy reading, hanging out with 
@@ -42,7 +42,7 @@ authors:
   sunny: 
     name: sunny
     display_name: Just a Sunny Day 
-    avatar: 'assets/profilepics/sunny.jpg'
+    avatar: 'assets/profilepics/ccui.png'
     description: "I'm from Vancouver, BC where it rains over 200 days a year. At Caltech, 
     I serve on the excomm of the Caltech Y and Society of Women Engineers and play piano 
     with the chamber music program. When I'm not doing sets and lab work, I enjoy hiking, 
@@ -51,7 +51,7 @@ authors:
   tessa: 
     name: tessa
     display_name: Tessa 
-    avatar: 'assets/profilepics/tessa.jpg'
+    avatar: 'assets/profilepics/ttweet.png'
     description: "I grew up in the Seattle area and moved to Southern California to attend 
     Pitzer College in Claremont (and for the sunshine!) I graduated with a B.A. in Anthropology, 
     inspired by my love of museums and material culture and studied abroad in the Amazon region 
@@ -62,7 +62,7 @@ authors:
   rashi: 
     name: rashi 
     display_name: Rashi Jeeda  
-    avatar: 'assets/profilepics/Rashi.jpg'
+    avatar: 'assets/profilepics/rjeeda.png'
     description: "Hi! I’m Rashi, a California girl who grew up in Pasadena, practically next door 
     to campus. I’m a junior majoring in Bioengineering and would typically be spending my days at 
     Caltech messing with the genome of E. coli in lab. On campus, I do synthetic bio research, 
@@ -71,7 +71,7 @@ authors:
   andy:
     name: andy 
     display_name: LOL Andy 
-    avatar: 'assets/profilepics/Andy_Rothstein.jpeg'
+    avatar: 'assets/profilepics/arothstein.png'
     description: "Life Of a Lloydie - Andy. Hello! I'm a senior physics major with a minor in aerospace 
     engineering from from Bethesda, Maryland. I'm a member of Lloyd House (and was the president 
     last year), help out as a dean's tutor, wait house dinners, and swim. Outside of the more 
@@ -80,7 +80,7 @@ authors:
   sydney: 
     name: sydney 
     display_name: Sydney Richardson 
-    avatar: 'assets/profilepics/SydneyR.jpg'
+    avatar: 'assets/profilepics/srichard.png'
     description: "Hello! I’m Sydney, a Junior from the Sacramento area studying Mechanical Engineering. 
     I play on Caltech’s volleyball team and I‘m a member of Fleming house. I participate in clubs 
     such as the Caltech Latino Association, the Society of Women Engineers, and FSAE (we build a racecar)! 
@@ -89,7 +89,7 @@ authors:
   vmechem:
     name: vmechem
     display_name: Vanessa Mechem
-    avatar: 'assets/profilepics/vmechem.jpg'
+    avatar: 'assets/profilepics/vmechem.png'
     description: "Hi! I am Vanessa, a Junior Chem major and pre-med student. I am originally from Shanghai, 
     China but I've been living in sunny Southern California for the past 7 years. I am the Vice President of 
     Page House, a Health Advocate, and a member of the Clemons lab. I love dancing, singing (poorly), 
@@ -109,6 +109,11 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   shortname: https-caltechadmissions-blog
+
+# Instagram 
+instagram_user_id: 17841400885573472
+instagram_client_id: 998967617301035
+instagram_access_token: IGQVJYa1VvbV9QWGlmNWZAoOFozdGctbmhBdzhSVHpvMWk0aTlsZAGFyc1F2ZAzQ2bk5nNnZAzVW02aWpxMjg5Y01MaDJTMVF3T1ZANUnhwZAnhraW1IODVUaF9XUENfTFJJNjFQd1NSNXU5eDlXR0MzcjN3WlNyNkw1RXZAXVmcw
     
 # Archives
 jekyll-archives:

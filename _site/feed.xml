@@ -1,239 +1,298 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Caltech Undergraduate Admissions Blog</title>
+    <title>Caltech Admissions Blog</title>
     <description>Explore life at Caltech!</description>
-    <link>http://localhost:4000/blog/</link>
-    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Sep 2020 19:55:04 -0400</pubDate>
-    <lastBuildDate>Tue, 01 Sep 2020 19:55:04 -0400</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <link>caltechadmissions.blog/</link>
+    <atom:link href="caltechadmissions.blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 14 Mar 2021 19:31:56 -0400</pubDate>
+    <lastBuildDate>Sun, 14 Mar 2021 19:31:56 -0400</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
     
       <item>
-        <title>Hello World</title>
-        <description>&lt;h1 id=&quot;a-brief-introduction&quot;&gt;A Brief Introduction&lt;/h1&gt;
+        <title>An Interview with a JPL Mentor!</title>
+        <description>&lt;p&gt;Over the past several months, I have had the opportunity to intern at the NASA Jet Propulsion Laboratory (JPL) under the mentorship of senior research technologist Dr. Xiaoqing Pi. Dr. Pi’s guidance and mentorship has been instrumental to the development and success of my internship at JPL, where I use machine-learning to enhance the accuracy and integrity of navigation and communication signals. In addition to helping me develop an understanding of atmospheric and ionospheric remote sensing and machine-learning, Dr. Pi has often offered his insights on how to improve my researching skills. Dr. Pi was generous enough to take the time to answer a few questions regarding his research and advice for future student interns. I believe many students can benefit from some of the lessons that he has taught me:&lt;/p&gt;
 
-&lt;p&gt;It is currently 1:21 in the morning and I am thrilled to be writing the first post of our new admissions blog, Caltech Fission. For those of you who didn’t follow the old blog, it’s nice to meet you. My name is Andrew and I’m a senior at Caltech studying geophysics and English literature. Throughout this summer, our local webmaster Brian (EE ’21) has been working on a new website for our old Caltech admissions blog “Theory of Connection” and we’re thrilled to finally be able to share it with you.&lt;/p&gt;
+&lt;h3 id=&quot;q-what-does-your-research-consist-of&quot;&gt;Q: What does your research consist of?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Dr. Xiaoqing Pi:&lt;/strong&gt;  “I have been conducting research on space physics, and remote sensing and modeling of the Earth’s ionosphere. Space physics is a science discipline about physics and systematic interactions between solar wind, interplanetary magnetic field, Earth’s magnetic field, magnetosphere, ionosphere, and thermosphere. The same principles apply to the Sun and other planets, and to other stars and their planets. The ionosphere is the ionized portion of the upper atmosphere at altitudes between about 100 to 1000 kilometers (the layer above 1000 km is called the plasmasphere). It is created by photoionization of the upper atmosphere due to solar EUV radiation. The density, temperature, and velocity of ionospheric charged particles (ions and electrons, or we also call them plasma) vary with solar EUV radiation intensity, the radiation optical path in the atmosphere, atmospheric constituents, and ionospheric dynamics. The ionosphere affects radio signals in ways to delay signals, and sometimes causes random fluctuations in signals, which are called ionospheric scintillation. This occurs if the signals pass through regions of irregularly distributed electron densities or ionospheric irregularities. The signal delay and scintillation effects have an impact on technology systems that rely on radio signals at HF through L-band. Examples include short wave radios, Global Navigation Satellite System (GNSS, including GPS, GLONASS, BeiDou, and Galileo), satellite-based Earth remote sensing radars, etc. Research on space physics helps to advance our understanding of mechanisms of ionospheric variations and disturbances. Development of remote sensing techniques and models helps to augment our observation capability and to enhance the reliability and accuracy of the technology systems”.&lt;/p&gt;
 
-&lt;p&gt;We’ll be posting a bit more on the specific development process of the blog in the upcoming weeks, but for now we wanted to take a second to reflect on the unprecedented times we’re living through and introduce you to Caltech Fission. For better or for worse, we’re living through arguably the most historic time in recent US history. As writer’s it is ever important to catalog and reflect on the unique experiences of the modern world under COVID-19. 
-Caltech students as a general have done a lot during the quarantine period. We’ve worked remote internships. We’ve developed social distancing solutions. We’ve slept too much and exercised too little. We’ve baked cakes, hiked mountains, and failed to recreate TikTok. We’ve enjoyed online classes and we’ve missed our friends. Times are different, but we’re still the same people at the heart of it all. We’re all living through unprecedented times, each in our own Caltech-y ways.&lt;/p&gt;
+&lt;h3 id=&quot;q-what-do-you-enjoy-the-most-about-your-field-of-study&quot;&gt;Q: What do you enjoy the most about your field of study?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Dr. Xiaoqing Pi:&lt;/strong&gt; “What I enjoy the most about my work is that I can pursue scientific discoveries and also conduct development to enhance technology systems. In my study field, I have had chances to conduct research and develop techniques to support satellite-based augmentation system (the Wide Area Augmentation System – WAAS as an example, which is the U.S. system to augment GNSS for aviation navigation), satellite-based interferometric synthetic aperture radars, ocean altimeters, deep space navigation, etc”.&lt;/p&gt;
 
-&lt;p&gt;And so be warned: our new blog is more than just a stylistic change. We have new content. New bloggers. New styles. COVID-19 has dramatically impacted all of our lives in different ways, and for this next term, whether we’re at home with our parents, Puerto Vallarta (some of my friends are actually renting a house out there for fall term), or out in LA, we’re looking forward to sharing our stories with you. Hopefully, in the process, you’ll gain a better understanding of Caltech and what it means to be a Caltech student.&lt;/p&gt;
+&lt;h3 id=&quot;q--what-are-some-projects-you-are-currently-working-on&quot;&gt;Q:  What are some projects you are currently working on&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Dr. Xiaoqing Pi:&lt;/strong&gt; “I am currently conducting several research projects. One of them is to develop techniques to detect, measure, and remove ionospheric effects globally in satellite-based interferometric synthetic aperture radar imagery. This research supports the upcoming NASA-ISRO SAR mission (NISAR). Another is to analyze scintillation effects on GNSS signals and to develop capability of predicting ionospheric irregularities and scintillation. This research supports the U.S. Wide Area Augmentation System (WAAS). I am also further extending a Global Assimilative Ionospheric Model (GAIM) to estimate ionospheric conditions under which ionospheric irregularities can be triggered. This is a research project under NASA’s Science Mission Directorate Living With a Star (LWS) program”.&lt;/p&gt;
 
-&lt;p&gt;So, stay tuned for some old updates, some new faces, and some good vibes! 
-I’ll end with a quote from Raymond Carver: “I could hear my heart beating. I could hear everyone’s heart. I could hear the human noise we sat there making, not one of us moving, not even when the room went dark.” The rest will be left as an exercise for the reader.&lt;/p&gt;
+&lt;h3 id=&quot;q-how-has-your-experience-been-with-interns-what-do-you-enjoy-about-being-a-mentor&quot;&gt;Q: How has your experience been with interns? What do you enjoy about being a mentor?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Dr. Xiaoqing Pi:&lt;/strong&gt; “I have had chances to work with several interns in the past, right now, and in the coming summer at either undergraduate or graduate level. These interns are very excited and enthusiastic about the research projects that they get into. Although the research fields are fresh to them, they are all eager to learn the phenomena, physical processes, and technology, and to contribute to the projects. As their mentor, I am happy to see that they are very motivated to face challenges and pursue solutions in order to reach the research goals”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/08/20200725-DSC_0479(1).jpg&quot; alt=&quot;dark room&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;q-what-advice-do-you-have-for-current-undergraduates-regarding-research-and-internships&quot;&gt;Q: What advice do you have for current undergraduates regarding research and internships?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Dr. Xiaoqing Pi:&lt;/strong&gt; “Undergraduate students should not shy away from challenging projects and tasks. They should prepare themselves with required basic skills and by reading relevant references about the research fields. They should follow their mentor’s advice, and actively look for solutions when encountering problems. Take my current research that recruits undergraduate interns through SURF, as an example, the research involves machine learning techniques and Python software. The interested students should be familiar with Python programming skills and familiar with Python-based machine learning libraries as well as their various applications. In addition, students should be prepared to process a large amount of data using Python programs. Different projects require different skills. Interested students may follow mentors’ guidance and suggestions”.&lt;/p&gt;
 
-&lt;p&gt;Andrew Chan
-Editor-in-chief, Caltech Fission&lt;/p&gt;
+&lt;h3 id=&quot;q--why-should-students-apply-for-andor-participate-in-nasa-internships&quot;&gt;Q:  Why should students apply for and/or participate in NASA internships?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Dr. Xiaoqing Pi:&lt;/strong&gt; “NASA’s research projects are of frontier research. Your mentors are often the front runners of the fields. Being an intern at a NASA center, you will surely learn exciting space science and cutting-edge technologies. Take my current research as an example, one of the major challenges in NASA’s Heliophysics Division research programs is to predict occurrence and intensity of ionospheric irregularities. The irregularities can cause scintillation in trans-ionospheric radio signals, which fades signal power and degrades signal quality. The occurrence and intensity of ionospheric irregularities involve complicated coupling processes between ionized and neutral gas in the upper atmosphere, including their dynamics controlled by the geomagnetic field and impact of solar wind perturbations on the ionosphere and thermosphere. Prediction of the irregularities is needed in certain technology applications, such as satellite-based aviation navigation and radio communications in military operations, as examples. This is an area where machine learning may play a role to solve the problem”.&lt;/p&gt;
+
+&lt;h3 id=&quot;q---what-are-some-qualities-you-look-for-when-selecting-an-intern&quot;&gt;Q:   What are some qualities you look for when selecting an intern?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Dr. Xiaoqing Pi:&lt;/strong&gt; “When selecting interns, I look for their enthusiasm about the project, preparedness of the required skills and knowledge about the field, eagerness of learning, good communications, active pursuit of solutions, and team work spirit. In terms of knowledge, one of my research projects requires knowledge of machine learning and its applications, as well as software tools that can be used for machine learning projects. There are some good machine learning libraries written in Python so that Python programming skills are very helpful. In addition, when conducting a specific machine learning task, a large amount of historical data sets is required. With Python programming skills, students can write programs to organize, process and analyze the data and outcome”.&lt;/p&gt;
+
 </description>
-        <pubDate>Thu, 27 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/blog/hello-world/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/hello-world/</guid>
+        <pubDate>Fri, 12 Mar 2021 00:00:00 -0500</pubDate>
+        <link>caltechadmissions.blog/An-Interview-with-a-JPL-Mentor/</link>
+        <guid isPermaLink="true">caltechadmissions.blog/An-Interview-with-a-JPL-Mentor/</guid>
         
         
       </item>
     
       <item>
-        <title>Paint Your Dreams</title>
-        <description>&lt;p&gt;What’s crackalackin’ my parrots! (get it? Because… Crackers?)&lt;/p&gt;
+        <title>Forging Ahead with Research while Sheltering in Place</title>
+        <description>&lt;p&gt;The transition period to remote learning was a very uncertain time, especially for research and the Caltech Summer Undergraduate Research Fellowships (SURF) program. Many hands-on projects had to pivot at the last minute to facilitate off-campus contributions. However, many Techers were able to take advantage of the research opportunities offered at Caltech and JPL to make the best out of remote learning and research. To paint a picture, I’ve interviewed a few talented Techers for some insight on what researching from home looks like for them.&lt;/p&gt;
 
-&lt;p&gt;Last night was the department of geological and planetary sciences (GPS) paint night, or, as it’s colloquially known, “deepening the GPS ++++++++++ love” (Dustin adds a + to the end each time that it happens). GPS as a department is fairly tight-knit; it’s hard not to be when you’re all taking classes together and going on field trips to who-knows-where. As such, we have lots of bonding-type activities throughout the week: we have social hours on Fridays, events throughout the week with research presentations and discussions. We even run our own softball team during the summer season (cleverly called “strike-slip”, just like the infamous San Andreas fault). But every now and then we have nighttime activities for bonding purposes, and painting night is truly the classic one of those.&lt;/p&gt;
+&lt;h3 id=&quot;q-what-does-your-research-consist-of&quot;&gt;Q: What does your research consist of?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Tyrone McNichols, ‘23, CS/Math:&lt;/strong&gt; “I work for the Processors System Development Group at JPL. My work involves developing software for radio astronomy, in particular for NASA’s Deep Space Network”.&lt;/p&gt;
 
-&lt;p&gt;Especially for me, paint night has been a great way to deepen friendships with grad students in our department. GPS is very graduate student heavy. As of right now I know maybe 7 other undergrads in the department, and most of my classes (at least, at this point, are majority graduate students). So, with paint night basically we get a bunch of canvases, a bunch of cheap paint, and we all get together and just paint for a couple hours. It’s a very wholesome evening and a very nice time altogether.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kristina Stoyanova, ‘23, CS:&lt;/strong&gt; “At the Ron Weiss Mammalian Cell Biology Lab at MIT, I use convolutional neural networks to predict regions of epigenetic marks on DNA sequences. One application of this is to help biologists computationally identify non-functional regions of new genes they’ve created before they even put the DNA into a host organism! The intention is to reduce the trial and error process of research”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0240a50aaf16200b-800wi.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anna Li, ‘23, Chemistry:&lt;/strong&gt; “I work on doing molecular dynamics and quantum mechanics calculations on the oxygen evolving complex in Photosystem II as a joint project between the Fischer and Goddard labs. We are working on exploring the mechanisms of photoassembly of the metal cluster, as well as the mechanisms during oxygen evolution”.&lt;/p&gt;
 
-&lt;p&gt;There’s a big range of artistic abilities in the department, and not everyone is painting either. Emma, one of the grad students, is an extremely talented artist and spends her time during paint night just working on whichever beautiful drawing she’s working on that given week. Then, there are people like me and Toby, who, although not completely artistically untalented, are certainly not the creators of beautiful art every week. This week, I decided to try something new: making the geometric art that I’ve always hated seeing in galleries in Los Angeles. Specifically, I painted one small white canvas. I like to think deep down that the white represents my deep lack of confidence in the world and in the love in the world that we live in. I mean, I did TRY to outline a heart in white paint. However, it really didn’t show up, so it’s just white paint like any other white paint. Or is it?&lt;/p&gt;
+&lt;h3 id=&quot;q-what-does-researching-from-home-look-like-for-you&quot;&gt;Q: What does researching from home look like for you?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Tyrone McNichols, ‘23, CS/Math:&lt;/strong&gt; “Mostly remote programming and testing. I also go to a few webex meetings for my group”.&lt;/p&gt;
 
-&lt;p&gt;Art is what you make of it,&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kristina Stoyanova, ‘23, CS:&lt;/strong&gt; “Reading papers, planning architectures for the models, and debugging code”.&lt;/p&gt;
 
-&lt;p&gt;–Chandrew&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anna Li, ‘23, Chemistry:&lt;/strong&gt; “Well it just looks like me dinking around on my computer in one of Caltech’s clusters”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/4th+post.PNG&quot; alt=&quot;Interviewees&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;q-how-do-you-stay-connected-what-programs-facilitate-your-online-research&quot;&gt;Q: How do you stay connected? What programs facilitate your online research?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Tyrone McNichols, ‘23, CS/Math:&lt;/strong&gt; “JPL has a slack for employees, and another one specifically for interns which helps a lot. I’m also a part of some employee groups at JPL”.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kristina Stoyanova, ‘23, CS:&lt;/strong&gt; “My graduate student mentor Sebastian Palacios, Prof. Ron Weiss, and I have a Slack channel, and we Zoom every week to go over my project’s state”.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Anna Li, ‘23, Chemistry:&lt;/strong&gt; “I meet with my mentors every week or every other week to go over results. I use NAMD/LAAMPS for molecular dynamics and Jaguar for quantum mechanics”.&lt;/p&gt;
+
+&lt;h3 id=&quot;q-any-advice-for-anyone-who-is-or-will-be-researching-from-home&quot;&gt;Q: Any advice for anyone who is or will be researching from home?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Tyrone McNichols, ‘23, CS/Math:&lt;/strong&gt; “Make sure you’ve got a consistent work schedule. It’s really easy to get off track online, but separating your life into times when you’re doing work and when you’re not can help a lot”.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kristina Stoyanova, ‘23, CS:&lt;/strong&gt; “Even if you want to do laboratory work there is so much prep work (reading papers, training, designing plans for experiments, reading more papers) that could help you hit the ground running once we get back in the lab. Even computational projects can later be verified experimentally. I wish everyone the best of luck with their research!”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Anna Li, ‘23, Chemistry:&lt;/strong&gt; “Don’t let research become too much stress, classes always come first”.&lt;/p&gt;
+
+&lt;p&gt;Similar to my peers, my experience, conducting research at JPL remotely, hasn’t been much different from distance learning, structure wise. Luckily, the project I’m involved in is heavily computational, so I am still able to conduct research and contribute to the project remotely. However, just because my internship is online does not mean that the standards at which I need to perform have diminished. It does take a lot of planning and time management to ensure that I stay on track and to reach my research goal in a timely manner. My mentor and I Zoom regularly to discuss updates and results and we share all our work via cloud to make things more accessible. Additionally, my lab has weekly meetings to explore the different research being conducted by members in the lab and catch up with one another. JPL has also been doing a great job at finding creative ways to ensure that interns can continue to learn, conduct research, and feel included. For example, there are multiple informational events and seminars held virtually every week.&lt;/p&gt;
+
+&lt;p&gt;Although it’s not ideal to work remotely, and I would have preferred to be on site, obviously no one can control the pandemic. Remote research has been a great learning experience nonetheless and I am thankful for the growth opportunities it’s provided, not only for me but for many other Caltech students as well.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 10 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/paint-your-dreams/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/paint-your-dreams/</guid>
+        <pubDate>Tue, 26 Jan 2021 00:00:00 -0500</pubDate>
+        <link>caltechadmissions.blog/Research-at-Home/</link>
+        <guid isPermaLink="true">caltechadmissions.blog/Research-at-Home/</guid>
         
         
       </item>
     
       <item>
-        <title>Sparky, Stand Back! It’s SCIENCE Time!</title>
-        <description>&lt;p&gt;Happy Friday y’all! In all my abundant free time (which &lt;em&gt;obviously&lt;/em&gt; exists) I’ve started volunteering with the Pasadena Unified School District. I’ve been working assisting their after-school program LEARNS, specifically helping with the Chemistry Olympiad and also running experiments for the kids to keep them engaged in science.&lt;/p&gt;
+        <title>Rotation Rotation Rotation - The Caltech Houses</title>
+        <description>&lt;p&gt;My favorite part about Caltech is the Houses! The easiest way to describe them is as Hogwarts houses: each has their own personality and group of people and the first thing you do at Caltech is go through a “sorting” process. The people are what makes the Houses at Caltech so great. As a frosh, it’s amazing to be able to come in and immediately have a group of 100+ people to support you. Because the Houses have students from every grade, you make friends with upperclassmen and can ask for help on tons of things like:&lt;/p&gt;
 
-&lt;p&gt;One of the thigs I love about Caltech is all the opportunities for volunteer and community work. The Caltech Y ensures there are great opportunities for all types of service work from what I do with LEARNS to work in LA homeless shelters, and more. It’s a great organization and honestly doesn’t get enough love most of the time.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hints on difficult problem sets&lt;/li&gt;
+  &lt;li&gt;Advice on which classes to take&lt;/li&gt;
+  &lt;li&gt;How to email Professors and find SURFs&lt;/li&gt;
+  &lt;li&gt;What days you should steer clear of House dinners &lt;strong&gt;(mystery fish should remain a mystery)&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;How to find internships and jobs or apply to grad school&lt;/li&gt;
+  &lt;li&gt;The best restaurants in the Pasadena area&lt;/li&gt;
+  &lt;li&gt;That one time frosh year you broke your ankle and needed to be driven to physical therapy 3 times a week (thanks Dylan &amp;lt;3)&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;This week the experiment we ran was the “whoosh bottle”. I know that sounds mysterious, but what you need is ethanol, and one of the 5-gallon water bottles that they sell at Home Depot or your local grocery store. (ALSO DO NOT TRY THIS AT HOME!!!!!!!). Luckily, both of those ingredients are fairly easy to obtain, although we really confused the lady at the Home Depot by specifically requesting empty water bottles. So, once you have the ethanol and the empty (and dry – this is very important to maximize the “whoosh”) you pour a small amount of ethanol in the bottle, swish it around, and then light it on fire. To properly practice safety with this experiment, we attached a long reach match to a dowel rod. It looked bad but keeps your hands out of the range of the flame. Usually you use a normal match and just drop it in, however we couldn’t find normal sized matches at home depot and figured this would be a suitable substitute.&lt;/p&gt;
+&lt;p&gt;Plus the houses also put on tons of social events from a ski trip, beach trip, movie nights, picnics, and tons of secret events you’ll learn about when you join one!&lt;/p&gt;
 
-&lt;p&gt;I learned how to do this experiment as a part of chem club, a club that does chemistry outreach similar to what we do with LEARNS, however a lot more infrequently and for shorter periods of time. We have a few other great experiments planned for LEARNS, including the ever-classic gummy bear in potassium perchlorate (maybe even the GIANT gummy bear in potassium perchlorate), an osmosis egg, and all sorts of other wonderful science things. In-terms of projects for chem Olympiad, we’ve made slime and built some bridges out of notecards. All of their activities are pretty fun and low stress and so they do a great job of keeping the kids involved.&lt;/p&gt;
+&lt;p&gt;Now I hope your immediate response is: “How do I join these great houses?” This happens through Rotation. Rotation is 2 weeks of House dinners and events so that the prefrosh can get to know all the House cultures. In addition to a dinner and dessert in each House, there are tons of other events from Open Mic Night, Capture the Flag, Grill Night, a House-run Boba Lounge, and many more! Besides getting to know the Houses, all the events are a ton of fun, are a great way to meet other frosh, and almost every single one has food.&lt;/p&gt;
 
-&lt;p&gt;Don’t “bottle” your emotions”&lt;/p&gt;
+&lt;p&gt;At the end of the 2 weeks of Rotation, you rank the Houses in order of your preference and all the rankings are then fed into an algorithm to match frosh with Houses. Then, the Fleming cannon is fired, all the frosh find out what House they’re in, and they then get rushed off for a night of welcome activities.&lt;/p&gt;
 
-&lt;p&gt;–Chandrew&lt;/p&gt;
+&lt;p&gt;As Lloyd House President I had a lot of fun helping to run Rotation and know all the hard work the students put into making it a fun experience for everyone. This year, Rotation has been pushed off to the beginning of Winter term and will be done virtually. With all the time the students are putting into making this new format work, I’m sure it’ll be a great success!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/doors.jpg&quot; alt=&quot; doors &quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 08 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/sparky/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/sparky/</guid>
+        <pubDate>Sun, 20 Dec 2020 00:00:00 -0500</pubDate>
+        <link>caltechadmissions.blog/Caltech-Houses/</link>
+        <guid isPermaLink="true">caltechadmissions.blog/Caltech-Houses/</guid>
+        
+        
+        <category>Houses</category>
+        
+      </item>
+    
+      <item>
+        <title>The Indian Festival of Lights</title>
+        <description>&lt;p&gt;Hey everyone, and happy holidays! Personally, one of my favorite holidays during the season is Diwali. The description you’ll find all over the internet is “Diwali is the Indian Festival of Lights.” This is pretty much what every Diwali-celebrating, South-Asian child in America wrote in their elementary school reports about family traditions during the holidays, but it holds true!  Diwali usually does involve lighting candles and sparklers, and generally celebrates the triumph of good over evil in various mythologies. I like to think of it as a time of general goodwill and festivity. In non-pandemic times, Diwali celebrations might include with boisterous parties with tons of people and desserts and music. Last year, a couple of my friends and I organized an event in Ruddock House for people to come celebrate, complete with sweets and sparklers! However, the 2020 version, like for most things, has had to be toned down. We got together over Zoom instead, and although it couldn’t fully match the vibe of being in person, the spirit was definitely there. And, it’s nice to think that we’ve started a yearly tradition.&lt;/p&gt;
+
+&lt;p&gt;The festivity (and Bollywood music) also makes me miss Dhamaka, the Bollywood dance team we have on campus. I joined Dhamaka during my freshman year: it all started out as me tagging along with friends who had pushed me to go with them to the first practice. I was pretty apprehensive because I had never really been on an official dance team before, or ever danced on a stage for that matter, but the group was incredibly welcoming! It didn’t matter that I didn’t have previous experience (as is the case for many clubs on campus!), and it was a fun outlet for me to take a break from sets every weekend. We would meet every week or so to practice for the Caltech Dance Show, held in the spring every year, where we were the big finale! Check us out on YouTube:&lt;/p&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+  &lt;iframe src=&quot;https://www.youtube.com/embed/FeR7GkrP-0Y&quot; width=&quot;700&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
+  &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/dhamaka_promo.JPG&quot; alt=&quot; Dhamaka &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Earlier this year, Dhamaka also paired with OASIS (Organization of the Associated Students of the Indian Subcontinent), a grad student-led cultural club on campus, to put on a Holi event! Holi is another festival celebrated in India, during which people welcome the season of spring with lots of color. I celebrated Holi with family and friends every year without fail before coming to Caltech, so it was rewarding to be able to share the experience with my college friends for the first time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/holi_group.JPG&quot; alt=&quot; Holi &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I also performed at this event with Dhamaka right before everyone had to leave campus in March. I suppose it was sort of our last hurrah for the year, but I’m looking forward to continuing all these traditions and events next year and am glad to be part of a community that is full of culture!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Dec 2020 00:00:00 -0500</pubDate>
+        <link>caltechadmissions.blog/The-Indian-Festival-of-Lights/</link>
+        <guid isPermaLink="true">caltechadmissions.blog/The-Indian-Festival-of-Lights/</guid>
         
         
       </item>
     
       <item>
-        <title>Reflections</title>
-        <description>&lt;p&gt;After a week being back, I think it’s about time for some reflections on what it meant to be abroad, and what I’ve taken away from it. I’m really happy to be back, but it’s just been almost a culture shock of sorts being back in California, and back at my true home (for now, at least).&lt;/p&gt;
+        <title>Reflecting on College Admissions</title>
+        <description>&lt;h4 id=&quot;what-do-you-remember-feeling-when-you-found-out-you-had-been-accepted-to-caltech&quot;&gt;What do you remember feeling when you found out you had been accepted to Caltech?&lt;/h4&gt;
+&lt;p&gt;In short: I was completely shocked. Caltech had been my first-choice school for years (warm weather, great science, what’s not to love?). However, I didn’t ever think I’d get in: nobody had gotten in from my high school in the living memory of any teacher and my guidance counselor had told me point blank that it was a longshot.&lt;/p&gt;
 
-&lt;p&gt;Of course, my parents wouldn’t say that Caltech is my home, but I think that may be one of the first things I realized when I was abroad; when people ask me where I’m from I’d always say that I was born in Denver and I live in Los Angeles. In a lot of ways, bit by bit, I’ve become more and more of a Los Angeles convert. Still a Colorado native at heart, but a Los Angeles native. I really do love Los Angeles. When I stepped off the plane in Burbank flying in I remembered a bit of that. The rolling hills, warm air, and palm trees. It is its own kind of magic.&lt;/p&gt;
+&lt;p&gt;So, the scene: December 15, 2016. A cold, chilly day in Denver, Colorado. I’m wearing a sports coat and khaki pants. Why? Well, I was in the literal middle of an interview with Duke when I got the email push notification saying that there was an update to my admissions portal. To this day I have absolutely no idea how I finished that interview. But once I got out of eyesight, I immediately opened my phone and clicked on the link expecting to find disappointment. I was amazed to be greeted with confetti instead – so much so that I did a jump and punched the air, much to the confusion of the few people walking on the street beside me.&lt;/p&gt;
+&lt;h4 id=&quot;how-did-you-decide-to-attend-caltech&quot;&gt;How did you decide to attend Caltech?&lt;/h4&gt;
+&lt;p&gt;For me, it came down 100% to academics. When I visited Caltech on a tour, one of the fencing team members had told me that Caltech Geological and Planetary Sciences was objectively and subjectively the best undergraduate program in the world. And honestly that’s true. It’s a 2:1 faculty to student ratio, and we get a trip to Hawaii senior year (although maybe not this year).&lt;/p&gt;
 
-&lt;p&gt;I’ll be honest, I miss Singapore. I miss waking up knowing that one of the best roast duck plates I’ve ever had is a 2-minute walk and $3 away. I miss fencing in the suffocating humidity, and even taking the bus to work every single morning. Singapore in a lot of ways felt like a place I truly belonged, an Asian country with a huge British influence, just like how I’m an Asian person with a large amount of American influence.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://blueberry-elephant.s3.us-east-2.amazonaws.com/amchan/12_17/Ge+11a+Field+Trip.JPG&quot; alt=&quot;A Fieldtrip to Death Valley&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I miss Scotland too, but a little bit less so. I don’t think I connected to Scotland quite as much as I did to Singapore. It was scold, for one, and as I’m sure y’all readers have figured out, I can’t really deal with cold weather. I really do miss all my friends though. I miss the late evenings out with Justin, the lack of homework, the constant, nonstop travelling. It was a great time being abroad, and it feels almost wrong to be stagnant in one location for the rest of the year.&lt;/p&gt;
+&lt;p&gt;What really sold it was the interactions I had on my visit to campus. One of the professors, Paul Asimow, spent an hour showing me every geosciences lab and talking about the research. It’s this connection that immediately made me realize the potential of Caltech. A tenured faculty member was taking time to interact with me, a student who hadn’t even committed yet. I’ll talk about this more in another post, but I really didn’t relate to any of the students I met (although I’ve since met great people on campus). But when I committed, I was willing to completely sacrifice my social life for four years to get that student-faculty relationship.&lt;/p&gt;
+&lt;h4 id=&quot;what-do-you-wish-you-could-go-back-and-tell-yourself-senior-year-of-high-school&quot;&gt;What do you wish you could go back and tell yourself senior year of high school?&lt;/h4&gt;
+&lt;p&gt;I would’ve told myself to relax a bit. Have fun. Enjoy the people I was around and the memories I was making. I haven’t really interacted with a lot of people from high school since graduating. Most of them have stayed in-state with the same friend groups they’ve always had. I think one thing I didn’t really do is appreciate those connections enough in the moment. High school isn’t really a fun time, and we all suffered through that together. I wish I’d spent more time with those people and really just cherished that bond – I didn’t really realize how special that was until it was gone.&lt;/p&gt;
+&lt;h4 id=&quot;what-advice-would-you-give-to-the-admitted-class-of-2025&quot;&gt;What advice would you give to the admitted Class of 2025?&lt;/h4&gt;
+&lt;p&gt;I’m going to spin this out in a separate post, but in short, it’s this: take the time to know every school you get accepted to. Make sure that above parental influence, external pressure, or scary posts on Quora, you make the best choice for yourself. Whether that’s Caltech or anywhere else. Our school isn’t right for everyone. But if you were admitted, our admissions team believes that it’s right for you.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0240a501ac88200b-800wi.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And my takeaway from all of this is that I can find those same things back here at Tech too. I can take a weekend and go down to San Diego or camping in the mountains. I can hunt for that cheap and delicious roast duck.&lt;/p&gt;
-
-&lt;p&gt;So that’s my takeaway. Life doesn’t need to change, but instead expand from all of the experiences that you live through. Take those same life lessons and apply them to your daily life.&lt;/p&gt;
-
-&lt;p&gt;Think deep and learn,&lt;/p&gt;
-
-&lt;p&gt;–Chandrew&lt;/p&gt;
-
+&lt;p&gt;– Chandrew&lt;/p&gt;
 </description>
-        <pubDate>Sat, 18 Jan 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/reflections/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/reflections/</guid>
+        <pubDate>Thu, 17 Dec 2020 00:00:00 -0500</pubDate>
+        <link>caltechadmissions.blog/Reflecting-On-College-Admissions/</link>
+        <guid isPermaLink="true">caltechadmissions.blog/Reflecting-On-College-Admissions/</guid>
         
         
       </item>
     
       <item>
-        <title>CaltechY Winter Quarter Friends Dinner</title>
-        <description>&lt;p&gt;The CaltechY hosts a Friends Dinner once every quarter to thank its supporters and provide them with an opportunity to network with the Y’s student leaders. Each event features one special speaker. In the past, there have been artists, professors, film makers and more. This time, it was one of Caltech’s chemistry professors, Peter Jonas, who spoke about the vision surrounding the new Resnick gift.&lt;/p&gt;
+        <title>My Best Advice for the Class of 2025</title>
+        <description>&lt;p&gt;It’s crazy to think that it has been four years now since I was applying to college. I remember it vividly. This week we’re spending some time reflecting on our personal admissions processes, and how we ended up at Caltech. There’s one question though that I wanted to spin out into a separate post: “what advice would you give to the admitted class of 2025?” And I think the best way to do this is to tell a more detailed story than I did in my other post.&lt;/p&gt;
 
-&lt;p&gt;The dinners are all held at the Athenaeum. Since this event was pretty close to Christmas, the Ath was completely decked out in holiday decor, making it venue seem extra grand. Of course, since its the Ath, there is great food. The menu that night featured a fancy salad, roast chicken and veggies and the most delicious chocolate lava cake I’ve ever had. I gave an intro for the evening, welcoming people to the event and welcoming the featured student speaker of the night, and while doing so, people were already distracted by the food. Luckily, the main speaker of the night was programmed after the dessert.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I almost didn’t come to Caltech.&lt;/strong&gt; I was extremely fortunate during college admissions: I got into 6/7 schools I applied to, all them very competitive schools. My decision came down to this: Caltech, a half tuition scholarship at one school (13% acceptance), tiny scholarship at another school (9% acceptance). Honestly, it really came down to Caltech and the last school – their admissions officer had handwritten me a note about my application with specific comments on my essay, and honestly, I just felt wanted there. Caltech was objectively the better school academically (especially in the geosciences), but I really did not connect with the people when I visited. In-fact, I actually really didn’t like a single person I met while touring Caltech. Because of the house system on campus people with certain hobbies/interests often group together at Tech and during my Caltech in a day experience I didn’t interact with a single person from the house I ended up in, or any of the houses that I share interests with.&lt;/p&gt;
 
-&lt;p&gt;I mentioned previously that the talk was centered around the Resnick gift, but it also touched upon a lot of the current sustainability research at Caltech. One of the major incentives is artificial photosynthesis. I won’t go into details about the content of the talk, because my understanding of the contents is actually quite shallow. However, the idea is that we are quite close to being able to synthesize sugars from more abundant sources in our atmosphere. This makes me a lot more hopeful and excited about the sustainability of carbon-intensive industries.&lt;/p&gt;
+&lt;p&gt;What it came down to was this: I was going to go out to participate in the other school’s weekend event, but it conflicted with the FIRST Robotics World Championships, so I didn’t go. I know for a fact that if I had gone to that school’s weekend event that I would not have attended Caltech, and that that would have likely been the biggest mistake of my life. In this particular circumstance, fate, or perhaps the butterfly effect, intervened and led to me committing to Caltech.&lt;/p&gt;
 
-&lt;p&gt;I am not sure who is speaking at the next Friends Dinner in the spring. When it does happen, I will provide you with a more detailed synopsis. The photo below is taken by photographer Bob Paz.&lt;/p&gt;
+&lt;p&gt;So, here’s my conclusion. My advice for you, whether it’s at Caltech, or any school you go to, is to make sure you know the complete picture before deciding. Know the school, make the time to visit (perhaps virtually this year), and meet some students. That way, no matter what you end up picking, you’ll know that you’ve made the best choice for you and for your future. I’ll be honest, Caltech is not easy. I’ve been working harder and had much less fun than most of my other friends in college. And I’d do it all again.&lt;/p&gt;
+
+&lt;p&gt;– Chandrew&lt;/p&gt;
 </description>
-        <pubDate>Wed, 15 Jan 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/winter-quarter-friends-dinner/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/winter-quarter-friends-dinner/</guid>
+        <pubDate>Thu, 17 Dec 2020 00:00:00 -0500</pubDate>
+        <link>caltechadmissions.blog/My-Best-Advice-for-the-Class-of-2025/</link>
+        <guid isPermaLink="true">caltechadmissions.blog/My-Best-Advice-for-the-Class-of-2025/</guid>
         
         
       </item>
     
       <item>
-        <title>String food = new String(“Too Much Food”);</title>
-        <description>&lt;p&gt;Hello, Java monsters! If you couldn’t tell from my EXCELLENT punning, I’m taking CS 2 this term, a computer science course about the wonderful world of Java. That’s one of my new classes for this term. Also included: plate tectonics, seismology, field geophysics, physics lab, and a design-your-own English class about American minimalism as a prep-course for my thesis (which I’m hoping to start next term).&lt;/p&gt;
+        <title>Admissions Reflections</title>
+        <description>&lt;h3 id=&quot;what-do-you-remember-feeling-when-you-found-out-you-had-been-accepted-to-caltech&quot;&gt;What do you remember feeling when you found out you had been accepted to Caltech?&lt;/h3&gt;
 
-&lt;p&gt;So far, it’s shaping up to be a great term. It doesn’t look like I’ll have any midterms (the perk of being in all graduate-level geosciences courses) and my homework load seems mostly… doable? I’m glad that it is after a couple months of not really having formal homework in Scotland.&lt;/p&gt;
+&lt;p&gt;I remember the exact moments I got into Caltech. I was backstage at a dance recital, I had my hair and makeup done, I was in costume and about 20 minutes away from going on stage to perform. I had to quickly run upstairs to forward my mom the email link with the recital tickets since there was no signal backstage. After I forwarded her the email, I noticed an email from Caltech with a subject line of “View your Caltech admissions decision online.” To be perfectly honest, I thought there was no way I would get in. I had resolved myself to opening the rejection and moving on with my day. I logged into my account and opened the letter. Confetti flew across my screen as I read the words “Congratulations!”&lt;/p&gt;
 
-&lt;p&gt;Anyways though, this post is more about my weekend than it is about my week. I spent the entire weekend cooking with the Caltech Senior Director of Activities and Programs Tom Mannion. First up, we made… more fruitcake?? Yes, I did just make fruitcake like last weekend. But hey, I never say no to more delicious combinations of fruit, sugar, and coffee. Plus, Tom did the intelligent thing and ordered our fruit for the cake off the internet, so I didn’t have to candy any peels this time around.&lt;/p&gt;
+&lt;p&gt;I screamed in excitement and ran backstage. I screamed at my best friend Mary: “I GOT INTO CALTECH!” I was beyond excited and frankly completely in shock. Tears of joy filled my eyes, and it took all the self-control in the world to not completely ruin my stage makeup. I went on stage about 5 minutes later and the show was a disaster. I forgot all the choreography and was consistently a beat behind the other dancers, but that still did not put a damper on my mood. I was simply too ecstatic to even care.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0240a501ac35200b-800wi.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;how-did-you-decide-to-attend-caltech&quot;&gt;How did you decide to attend Caltech?&lt;/h3&gt;
 
-&lt;p&gt;Next up, sorbet! The University president has orange trees and had sent over a delivery of a bunch of oranges from them. Us, being the savvy chefs, we are, did the reasonable thing and made many iterations of orange and lemon sorbets. We mixed fruits, sugar, and a menagerie of everything else to end up with a few delicious icy combinations, although it wasn’t all too fitting since the weather was actually a wee bit chilly for Pasadena (a shocking 50 degrees!). To celebrate a day of hard work, we went to the home of the original French dip for some delicious sandwiches.&lt;/p&gt;
+&lt;p&gt;Honestly, Caltech was the best school I got into so the decision was not difficult. I was concerned that I would not fit in because I expected everyone to be the same “cookie-cutter” nerd that wanted to study 24/7. While I love science, I also wanted to have a social life in college, make friends, and have interests beyond academics. After visiting campus, I realized, yes, everyone is a huge science nerd (in the best possible way). But, everyone had their own passions and interests that they wanted to pursue. The experience made me realize Caltech is more than just “an academically rigorous” university, it is also a community that I would find my place in.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0240a501ac3b200b-800wi.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I expected everyone at Caltech to be the same person: a workaholic science geek that only wanted to study and do research all the time. This intimidated me because I also wanted to find friends and have a social life outside of school. I visited Caltech and talked to current students to see if Caltech was the right fit. After my visit, I realized Caltech is full of diverse personalities and interests and I would be able to find my people.&lt;/p&gt;
 
-&lt;p&gt;Sunday, we baked out fruitcakes, and prepared live lobster and crab for a proper New-England style shellfish dinner. It was my first time ever having whole lobster, and man, was that a delicious dinner. Also, it was much easier to dissect for its meat than the crab was. I can see why people are a fan of this lifestyle. We also served it with some scalloped potatoes that Tom made, and a bit of a vegetable medley stir fry that Susan cooked up.&lt;/p&gt;
+&lt;h3 id=&quot;what-do-you-wish-you-could-go-back-and-tell-yourself-senior-year-of-high-school&quot;&gt;What do you wish you could go back and tell yourself senior year of high school?&lt;/h3&gt;
+
+&lt;p&gt;I would tell myself to learn more basic life skills -namely, personal finance, organization, time management, and cooking. Although I am pretty good at these things now, I think my life in college would have been easier if I learned these things during high school instead.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-advice-would-you-give-to-the-admitted-class-of-2025&quot;&gt;What advice would you give to the admitted Class of 2025?&lt;/h3&gt;
+
+&lt;p&gt;Caltech is full of resources and it is important to take advantage of them. However, take other people’s advice with a grain of salt. You must decide what YOU want out of life and out of college. For example, upperclassmen are a great resource. They can tell you if your course load is too ambitious, or which classes are fun to take, etc. But at the end of the day, you know yourself the best. When I was a freshman, I gave too much credence to upperclassmen opinions. I decided to try out computer science because so many people advocated for the major and the career. However, I knew that I was more passionate about biology and chemistry. Now, I am a Premed pursuing a chemistry degree.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 13 Jan 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/string-food/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/string-food/</guid>
+        <pubDate>Wed, 16 Dec 2020 00:00:00 -0500</pubDate>
+        <link>caltechadmissions.blog/admissions-reflections/</link>
+        <guid isPermaLink="true">caltechadmissions.blog/admissions-reflections/</guid>
         
+        
+        <category>acceptance</category>
         
       </item>
     
       <item>
-        <title>Home in Pasadeeeeeeena</title>
-        <description>&lt;p&gt;Well, I’ve returned to Caltech. And my first observation: it’s warm here. Really warm. I got off the plane and it was a balmy 21 C (70 F for all you yanks). And, after 11 countries (not including layovers) my trip around the world in about 180 days has been completed.&lt;/p&gt;
+        <title>In Search of Element 79</title>
+        <description>&lt;p&gt;It’s a familiar story told by a select few. I anticipated the first line to read, “We regret to inform you.” Instead, orange and silver confetti fluttered across my laptop screen. My acceptance filled me with joy and disbelief. After telling the good news to friends, family, and mentors, I realized how much I sacrificed for this outcome. The sum of all my opportunity costs–the weekends preparing for science competitions, late nights crossing fruit flies, and weeks tweaking my essays instead of having more typical teenage adventures–cashed in at this one point in time. My high school experience could’ve been different, but I don’t regret my choices. I had so much fun learning and researching that I wanted to, in earnest, do more of that in college.&lt;/p&gt;
 
-&lt;p&gt;I’m home. I have to say though, it didn’t really feel like home until I had my first boba back. While I was gone my true home away from home, Labobatory, opened their second location in Pasadena. First thing I did when I got in: started moving into my new apartment.&lt;/p&gt;
+&lt;p&gt;Years spent scaling the stucco wall left little time to imagine what’s on the other side. Maybe it’s a form of self-protection, but during the application process I didn’t think much about what it meant to “be a Caltech student.” The fear of getting my hopes up came second to the fear of losing myself in prestigiousness. As cheesy as it sounds, when I did dream of what I’d do in college, I imagined dramatically scribbling equations on blackboards or commanding a fleet of drones from my dorm room. I didn’t need to go to Caltech to do those things, but it would be the best place where I could.&lt;/p&gt;
 
-&lt;p&gt;Oh yeah! That’s a good note here – I’m living off-campus this term. I figured I’d be used to cooking for myself by the time I got back from abroad. So, I didn’t really fancy the idea of going back to a world of pre-prepared Caltech dining services meals. More on that to come. But anyways I’m living a block North of campus with Marcel; together we form the flat of… well… all the geophysics majors at the California Institute of Technology. It’s super spacious, and generally pretty nice, but it’s definitely a bit weird living far away from campus (and by far I mean a 10 minute walk). Although, having been about that distance from uni at Edinburgh, I guess it really shouldn’t. Anyways, I had to move in there right when I got in Sunday. And then, I went to LABOBATORY!&lt;/p&gt;
+&lt;p&gt;Over the wall, I wondered if I should commit. I’d likely lose touch with my friends and family. Unsure of my future, I looked to the past for guidance–to the 19th-century pioneers headed west in search of gold. With a clear purpose, they were able to survive the arduous journey. They shouldered being lost, sick, and ambushed in the hope their efforts would pay off someday. Similar in spirit and destination, I decided to attend Caltech because my mission has remained singular: I want to learn science and engineering from the best in the world.&lt;/p&gt;
 
-&lt;p&gt;The new Pasadena location is quite excellent. They’re making all of their pearls in-house, so basically, it’s now objectively and subjectively the best bubble tea in Los Angeles. I missed good bubble tea. Like yikes Chatime looks bad compared to this.&lt;/p&gt;
+&lt;p&gt;Visiting Caltech gave me greater confidence in my decision. Its sunkissed campus, unparalleled research, and tight-knit community captivated me. Although Tech has been unforgiving at times, it has kept its promise in supporting my mission. In my first year, I saw the fly brain glow in response to an odor. I watched Einstein’s equations of special relativity leap out from Maxwell’s equations. I expressed the closed-form of the Fibonacci sequence using the golden ratio.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0240a501ac88200b-800wi.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It’s nice to see all of my friends too, it’s a bit wild that it had been a whole 6 months. Unpacking was a bit more hectic than I thought it would be. Turns out I have a lot more stuff than I thought I’d left. And I forgot about my typewriters! Get ready for some artsy writing posts. Last thing: I did some grocery shopping. It was really great being back in LA Asian markets. Kinda felt like a nice breath of Singapore and everything came back to the start of the summer. So, I waltzed off with my 3lb can of milo into the California sunset, breathed out a sigh, and thought about how nice it was to be home.&lt;/p&gt;
-
-&lt;p&gt;–Chandrew&lt;/p&gt;
+&lt;p&gt;Having completed two years, I have my short stack of shiny ingots. There is still so much to discover. To those starting this journey, I offer you the same golden nugget I found in Feynman’s &lt;em&gt;Perfectly Reasonable Deviations from the Beaten Track&lt;/em&gt;: Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 11 Jan 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/home-in-pasadena/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/home-in-pasadena/</guid>
+        <pubDate>Wed, 16 Dec 2020 00:00:00 -0500</pubDate>
+        <link>caltechadmissions.blog/In-Search-of-Element-79/</link>
+        <guid isPermaLink="true">caltechadmissions.blog/In-Search-of-Element-79/</guid>
         
+        
+        <category>acceptance</category>
         
       </item>
     
       <item>
-        <title>Baker’s Dozen</title>
-        <description>&lt;p&gt;Why hello there! I’ve spent the last few days baking. No, I haven’t been out baking in the sunshine; although it is a balmy 40 degrees Fahrenheit in Colorado. Instead, I’ve been taking advantage of my home’s superior kitchen to concoct all the baked goods I wanted to make (but couldn’t) while I was abroad.&lt;/p&gt;
+        <title>Online School.. on Mars</title>
+        <description>&lt;p&gt;When the announcement was first made that fall term was going to be online, I started talking to friends and looking for places to live. We were debating locations around the country: California, Florida, New York, etc.. there were plenty of options. Then it suddenly hit me, what is stopping us from going to Hawaii, covid numbers were better and a two week quarentine would ensure that numbers stayed down… I proposed this to my friend and we agreed it would be an amazing experience, but we didn’t want to get out hopes up. A month or so later we still haven’t decided where to live, Hawaii seemed too far and too difficult to plan. But we couldn’t get the idea out of our heads. We spent some time looking into plane tickets, places to stay, etc… and it actually didn’t seem so impossible after all. A couple weeks later and we were arriving here on the big island!&lt;/p&gt;
 
-&lt;p&gt;And it all started (as it usually does) with fruitcake. This was actually the same fruitcake I made last year on Caltech campus, only with a few special twists this year for our family’s annual holiday brunch. Every year my godparents (yes, the same ones that were in Ireland with me!!!) and my family go out for brunch. This year, however, my grandmother is staying with my family, so we decided to have brunch at our house instead. My brother was preparing the main, and I the dessert.&lt;/p&gt;
+&lt;p&gt;So online school is of course not really on Mars, but I thought that picture looked a lot like it! That photo is actually from the world’s tallest mountain: Mauna Kea. Yes, Mauna Kea is the world’s &lt;em&gt;tallest&lt;/em&gt; mountain, Everest is the world’s &lt;em&gt;highest&lt;/em&gt; mountain. Everest is 29032 feet above sea level while Mauna Kea is only 13803 feet above sea level, however Mauna Kea from bottom to peak is over 32800 feet tall (compared to Everest’s 29000 feet from bottom to peak). With school being online, a couple of my friends and I packed our bags and moved to Hawaii for fall term!&lt;/p&gt;
 
-&lt;p&gt;The adventure of the day was candying my own fruit for the fruitcake. Funny enough, there isn’t a store that sells candied orange/lemon peel at this time of year. And I candied my own Yuzu lemon to go along with it! (it was a substitute for citron). Beyond that, the fruitcake was pretty straightforward. I messed around a bit and made a caramel sauce as well as some caramel art to class it up a bit, and there ya go! Instant dessert!&lt;/p&gt;
+&lt;p&gt;We have:&lt;/p&gt;
 
-&lt;p&gt;![https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0240a4b10a2e200c-800wi.jpg]&lt;/p&gt;
+&lt;p&gt;Explored caves created by flowing lava!&lt;/p&gt;
 
-&lt;p&gt;Next up was a red velvet cake. I’m not going to speak about this one too much. It was red. It was velvety. It contained 3 cans of beets. Yes. Beets. I know. I didn’t choose the recipe… It had a nice cream cheese/mascarpone/whipped cream frosting though!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/11/cave.jpg&quot; alt=&quot;cave&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;Seen some pretty amazing waterfalls!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/11/waterfall.jpg&quot; alt=&quot;waterfall&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Swam with huge (8 foot+) manta rays!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/11/mantas.jpg&quot; alt=&quot;mantas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And more! Overall, I have had an amazing experience here in Hawaii.&lt;/p&gt;
+
+&lt;p&gt;While I miss Caltech dearly, this opportunity to go explore Hawaii with my friends is an unforgettable and amazing experience!&lt;/p&gt;
+
+&lt;p&gt;Overall, the decision to come to Hawaii was a very sudden and spur of the moment choice, something I usually don’t do! Yet this has become one of the most amazing experiences of my life! Have you experienced any “good accidents”? Let me know in the comments!&lt;/p&gt;
 </description>
-        <pubDate>Mon, 06 Jan 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/bakers-dozen/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/bakers-dozen/</guid>
+        <pubDate>Sun, 29 Nov 2020 00:00:00 -0500</pubDate>
+        <link>caltechadmissions.blog/Online-School-on-Mars/</link>
+        <guid isPermaLink="true">caltechadmissions.blog/Online-School-on-Mars/</guid>
         
+        
+        <category>blog</category>
         
       </item>
     
       <item>
-        <title>LA Zoo Lights</title>
-        <description>&lt;p&gt;There’s nothing more festive than beautiful holiday decor. Something that has gotten quite popular in recent years is light displays. Around Pasadena, the LA Zoo, LA Arboretum are a few venues that have elaborate holiday light displays. This past weekend, I went to check out the LA Zoo Lights. The general admission is ~$15 on weekdays and ~$20 on weekends, which is certainly not cheap, so if you do go, be sure to take a ton of photos.&lt;/p&gt;
+        <title>AnnABEL&apos;s Theorem</title>
+        <description>&lt;p&gt;Have you ever gotten lost trying to find an address? Have you ever been annoyed by the voice on your phone telling you to “Turn left in 100 ft.” when in reality there is no street to turn into? When you find an address using your phone, have you ever wondered where that information comes from? I think we all have. GPS (Global Positioning System) is a system composed of a fleet of about 24 satellites put into orbit and maintained by the U.S. Department of defense. This technology is used to find a position on Earth by using a mathematical technique, called trilateration. Trilateration uses about 3 satellites, at any given time, to determine an object’s speed, elevation, and position. Most electronic devices come with a built-in GPS chip and use Wi-Fi networks and cellphone towers to enhance location accuracy and calculate its position. Even though GPS is a highly sophisticated system, it is far from perfect! It is not uncommon for it to malfunction when a navigator cannot receive sufficient satellite data or when signals move too slowly due to atmospheric irregularities in the troposphere and ionosphere. This, in turn, can output inaccuracies in location calculations which can cause serious problems in navigation and aviation in addition to unnecessary stress and frustration.&lt;/p&gt;
 
-&lt;p&gt;I went with two of my friends, one of whom has a pro photography gear. He brought two sets of lenses and a tripod. We never got to use the tripod since it was rather crowded. However, his two sets of lenses were quite useful. One was suited for panoramic shots, the other for close ups and special effects.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/11/D86F6843-AD65-45E9-A5B5-FDA349117BC7.jpeg&quot; alt=&quot;GPS&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Right when you walk in, you are blinded by all the LEDs. There is a center piece that looks like a float at a parade. Surrounding the display are little pop-ups where local artisans sell their goods, including fancy salsa, jewelry and prints. We got some churros and hot chocolate since it was fairly chilly out.&lt;/p&gt;
+&lt;p&gt;There are multiple ways to refine GPS functionality. One of these ways is to improve its accuracy. Over the last several months, I have been conducting research at the NASA Jet Propulsion Laboratory (JPL), under the mentorship of JPL senior research technologist Dr. Xiaoqing Pi. Our research involves using machine-learning to increase the integrity of navigation and communication signals. More specifically, we work on studying and predicting ionospheric irregularities triggered by geomagnetic storms, plasma convection, and associate dynamics in the high-latitude ionosphere. Our goal is to reduce signal reception interruptions, caused by solar activity such as solar flares and coronal mass ejections. We aim to increase the accuracy of technology applications that rely on the Global Navigation Satellite System and GPS data. My individual contributions include developing and applying Python-based machine learning to improve navigation and communication signal integrity. I am responsible for downloading, analyzing, and processing various sets of GPS and magnetometer data using Python programs, which I write from scratch. Once the data is pre-processed, I run it through several machine-learning algorithms that I’ve developed, to predict the time, location, and intensity of these ionospheric irregularities. After the predictions are generated, I analyze their accuracy by calculating their correlations against historical data. The goal is for these algorithms, once implemented, to accurately predict ionospheric irregularities, under various geophysical and space weather conditions, in real time, reducing the impact of ionospheric scintillation on receptions of GNSS signals and data; thus improving navigation systems.&lt;/p&gt;
 
-&lt;p&gt;Most of the animal exhibits were closed, with the exception of the snakes exhibit. We saw a variety of baby snakes, but did not see any pythons or cobras. Outside, was this massive web and spider made of lights. There were also light sculptures of flamingos, frogs and elephants along the path. One thing I really like about the displays is how well-planned they are. There are arrows guiding you from one exhibit to the next so you walk and optimized path without repeating sights.&lt;/p&gt;
+&lt;p&gt;As this research continues to evolve and the accuracy of these predictions increases, GPS malfunctions could potentially be a problem of the past! Devices and technology could be engineered to take the above predictions into account and adapt their outputs accordingly, making them more accurate and reliable. Hopefully, next time you use GPS to find directions to the nearest boba shop, you’ll get there on a timely manner and without getting lost!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0240a4da05ec200d-500wi.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The highlight of the place is this light tunnel. It’s essentially just a 100 meter tunnel lined with fairy lights of all colors.The beginning is white lights, then rainbow lights, before ending in golden lights. This is where everyone takes photos and shares to social media. We managed to get some nice pictures here, but it was quite touch to wait for the moments when the background is not filled with people. We left soon after that since it was freezing out. Well, freezing by LA standards, so like in the 50s temperature-wise.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0240a4fea7c1200b-800wi.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The Zoo Lights were definitely beautiful, but I don’t think I would go back again. I think they recycle the same displays year after year, so I wouldn’t pay to see the same thing again. However, if you have never been, I do think it’s a worthwhile experience.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/11/BFD51676-1FAF-4351-88ED-3BEC7AD278C7.jpeg&quot; alt=&quot;Directions&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 04 Jan 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/la-zoo-lights/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/la-zoo-lights/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Home, For a Minute</title>
-        <description>&lt;p&gt;Well, I’m back in Colorful Colorado! Although at this time of year, it’s not all to colorful. I have to say, it’s a bit weird being back. In Colorado, definitely, but more so just being in the US. I think the biggest shock for me was walking into the Safeway grocery store that’s about a half mile from my house. It’s… huge. I never really realized this until I was abroad but American stores in general are just massive. It was the first time I’d seen a butcher’s counter inside a store in who knows how long. Even at the giant FairPrice in Singapore I don’t remember seeing anything like that. FairPrice was more like a miniature target. And then the UK stores were all TINY compared to that. It’s just a strange and different model.&lt;/p&gt;
-
-&lt;p&gt;Anyways, that’s probably enough about grocery stores for now. I also went to the local Asian market and man oh man have I missed being surrounded by every sort of Asian food that I could physically ask to have.&lt;/p&gt;
-
-&lt;p&gt;I’m sure you’re probably wondering how it is adjusting in general though. First, Colorado is a lot warmer than Scotland. Not physically, actually it dropped about ten degrees colder within a couple days of me being back. But, there’s no humidity here. In-fact, it’s so dry that writing this a week after being back (and countless gallons of water) I am STILL dehydrated. This makes it feel infinitely less cold than Scotland does. There’s also no windchill and that helps too. Secondly, everyone here is… American. Everything is American. And that’s not a bad thing. There are big portion sizes of food. Soft drinks that don’t have artificial sweeteners.&lt;/p&gt;
-
-&lt;p&gt;Also, I’m ridiculously jetlagged. I have been for a week. It’s not awful, but I’ve been getting tired at 8PM and waking up around 7AM (very different from my typical 2AM-10AM sleep schedule). Either way it’s certainly nice being back. After half a year outside of the US it’s a bit refreshing to be back in a culture that’s familiar. And where I don’t constantly have to explain why I pronounce things all funny-like.&lt;/p&gt;
-
-&lt;p&gt;Finally, it snowed. I don’t like snow. It’s all wet and cold, and irritating. And it GETS EVERYWHERE!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=2tLf1JO5bvE&quot;&gt;I don’t like sand&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;–Chandrew&lt;/p&gt;
-</description>
-        <pubDate>Sat, 04 Jan 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/home-for-a-minute/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/home-for-a-minute/</guid>
+        <pubDate>Fri, 27 Nov 2020 00:00:00 -0500</pubDate>
+        <link>caltechadmissions.blog/Annabels-Theorem/</link>
+        <guid isPermaLink="true">caltechadmissions.blog/Annabels-Theorem/</guid>
         
         
       </item>
